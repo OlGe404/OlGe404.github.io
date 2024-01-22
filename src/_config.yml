@@ -1,0 +1,16 @@
+---
+title: Rezeptbuch
+description: Sammlung von Rezepten zur einfachen Suche und zum nachkochen!
+theme: just-the-docs
+url: https://rezeptbuch.github.io
+
+aux_links_new_tab: true
+aux_links:
+  "Quellcode auf GitHub":
+    - "https://github.com/OlGe404/rezeptbuch"
+
+search:
+  rel_url: false
+  heading_level: 3
+  previews: 5
+  preview_words_after: 5
