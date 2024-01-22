@@ -1,5 +1,5 @@
 ---
-title: Hefezopf mit Quark-Fülling
+title: Hefezopf mit Quark-Füllung
 layout: recipes
 parent: Frühstück
 source: https://www.backenmachtgluecklich.de/rezepte/hefezopf-mit-quark-fuellung.html
