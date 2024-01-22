@@ -14,3 +14,9 @@ search:
   heading_level: 3
   previews: 5
   preview_words_after: 5
+
+exclude:
+  - Makefile
+  - LICENSE
+  - README.md
+  - to-dos.md
