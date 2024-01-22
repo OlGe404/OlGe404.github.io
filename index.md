@@ -29,7 +29,7 @@ Laktosefrei
 <p>Viel Spaß beim nachkochen! ( ͡ᵔ ͜ʖ ͡ᵔ )</p>
 
 <h2>Neues Rezept hinzufügen</h2>
-<p>Jeder kann neue Rezepte zum Rezeptbuch hinzufügen. Unter diesem Link wird erklärt wie das geht.</p>
+<p>Jeder kann neue Rezepte zum Rezeptbuch hinzufügen. <a href="https://github.com/OlGe404/OlGe404.github.io/blob/main/README.md" target="_blank">Unter diesem Link wird erklärt wie das geht.</a></p>
 <p>Damit das Rezeptbuch einheitlich und leicht zu benutzen ist, überflieg bitte die folgenden Grundlagen, bevor du ein neues Rezept hinzufügst.</p>
 
 <h3>Duplikate</h3>
