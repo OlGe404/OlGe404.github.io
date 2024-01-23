@@ -4,7 +4,7 @@
 
 title: <Name des Gerichts>
 layout: recipes
-parent: <Kategorie in Navigationsleiste, wo das Rezept einsortiert wird>
+parent: <Kategorie in Navigationsleiste, wo das Rezept einsortiert wird. Es gibt: "Frühstück", "Hauptspeisen", "Beilagen", "Soßen", "Nachtisch". Es kann nur eine Kategorie eingetragen werden.>
 source: <Link zur Originalquelle>
 image: <Link zu einem Beispielbild>
 ingredients:
