@@ -1,6 +1,6 @@
 ---
 layout: recipes
-title: Pancakes
+title: American Pancakes
 parent: Frühstück
 source: https://www.youtube.com/watch?v=PuSS-ILKO7o
 image: https://img.chefkoch-cdn.de/rezepte/1205621226313744/bilder/1508311/crop-642x428/amerikanische-pancakes.jpg
