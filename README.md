@@ -7,7 +7,7 @@ Um neue Rezepte hinzufügen, müssen diese in dem [recipes Ordner](content/recip
 Als Vorlage für neue Rezepte soll die [Template Datei](content/recipes/_template.md?raw=1) benutzt werden. Es ist wichtig dass die Formatierung und Syntax aus dem Template übernommen werden, weil der Bau der Webseite sonst fehlschlagen kann. Das ist zwar kein Beinbruch, verhindert bis zur Fehlerbehebung aber das automatische Aktualisieren der Webseite.
 
 ## Technische Details
-Die Webseite ist mit [jekyll](https://jekyllrb.com/) und dem [just-the-docs](https://github.com/just-the-docs/just-the-docs) Theme erstellt worden. Die Webseite wird aus den Dateien des Repos gebaut und das Ergebnis wird in den [_site](_site/) Ordner geschrieben, der durch GitHub pages als Webseite gehostet wird.
+Die Webseite ist mit [jekyll](https://jekyllrb.com/) und dem [just-the-docs](https://github.com/just-the-docs/just-the-docs) Theme erstellt worden. Die Webseite wird aus den Dateien des Repos gebaut und das Ergebnis wird in den [_site](_site/) Ordner geschrieben, der durch GitHub Pages als Webseite gehostet wird.
 
 Bei Commit auf den "main" Branch wird die Webseite über GitHub Actions automatisch gebaut und deployed, sodass Änderungen in unter 1 Minute live sind.
 
