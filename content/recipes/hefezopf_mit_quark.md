@@ -31,6 +31,9 @@ instructions:
     - Abgekühlten Zopf stürzen und nach Belieben mit etwas Zuckerguss bestreichen. Dafür gesiebten Puderzucker mit wenig Milch glattrühren und Zopf bestreichen.
     
 ---
+Backen
+{: .label }
+
 Vegetarisch
 {: .label .label-purple }
 
