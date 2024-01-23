@@ -66,4 +66,3 @@ ist hier ein <a href="https://www.usa-kulinarisch.de/informationen/masseinheiten
 </p>
 
 <img src="/assets/images/cup-measures.jpg">
-<img src="/assets/images/american-metrics.jpeg">
