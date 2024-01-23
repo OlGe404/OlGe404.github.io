@@ -22,5 +22,8 @@ instructions:
     - Jetzt den Eischnee vorsichtig unterheben und die Mischung ~15 Minuten ruhen lassen. Eine Pfanne auf mittlerer Hitze jetzt mit etwas Öl vorheizen. Es ist wichtig dass die Pfanne vorheizt während die Mischung ruht, damit die Pfanne gleichmäßig erhitzt ist (Stufe 4 von 9).
     - Nach der Wartezeit die Pfanne eine Stufe höher Stellen, Öl in die Pfanne geben und mit einem Esslöffel den Teig in die Pfanne geben. 1 Esslöffel entspricht dabei einem Pfannkuchen. Die Pfanne nicht zu voll machen, da der Teig etwas verläuft und das Wenden sonst schwierig wird (kleine Pfanne 3 Pancakes, große Pfanne 4).
     - Wenn die Unterseite goldbraun ist, werden die Pancakes gewendet. Wenn die neue Unterseite ebenfalls goldbraun geworden ist, holt man sie aus der Pfanne. Idealerweise ruhen die fertigen Pancakes auf einem Gitter, anstatt auf einem Teller - so werden die nicht zu weich.
-    - Fertig! Die Empfehlung ist der Klassiker mit Ahornsirup, aber Mascarpone mit Erdbeermarmelade oder Beeren und  sind auch sehr lecker.
+    - Fertig! Die Empfehlung ist der Klassiker mit Ahornsirup als Topping, aber Mascarpone mit Erdbeermarmelade oder Beeren und ist auch sehr lecker.
+
 ---
+Amerikanisch
+{: .label }
