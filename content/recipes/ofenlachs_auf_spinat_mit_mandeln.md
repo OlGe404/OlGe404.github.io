@@ -2,7 +2,7 @@
 title: Ofenlachs auf Spinat mit Mandeln
 layout: recipes
 parent: Hauptspeisen
-source: https://emmikochteinfach.de/wprm_print/21081
+source: https://emmikochteinfach.de/einfacher-ofen-lachs-auf-spinat/
 image: https://emmikochteinfach.de/wp-content/uploads/2021/04/Einfacher-Ofen-Lachs-auf-Spinat-11.webp
 ingredients:
     - 250g TK Lachs
