@@ -2,6 +2,7 @@
 permalink: /
 layout: default
 title: Startseite
+search_exclude: true
 nav_order: 0
 ---
 <h1>Willkommen ☜(˚▽˚)☞</h1>
