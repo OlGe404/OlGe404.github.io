@@ -25,4 +25,4 @@ Amerikanisch
 {: .label }
 
 Favorit
-{: .label }
+{: .label .label-yellow }
