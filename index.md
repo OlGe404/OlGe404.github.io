@@ -58,7 +58,9 @@ Weitere Maßeinheiten ohne Abkürzung:
     <li>1 Becher Sahne</li>
 </ul>
 
-... und ähnliches. Diese sollen in genauere Angaben mit Abkürzungen überführt werden, z.B. 200g Sahne anstatt 1 Becher Sahne. Der Inhalt pro Becher kann variieren, z.B. bei Bioprodukten, und wie viel enthalten ist steht sowieso auf der Verpackung. Das soll gemacht werden, wenn es Sinn ergibt - es ist nicht nötig, die "1 Prise Salz" mit der Küchenwaage abzuwiegen, um das hier genauer eintragen zu können.
+... und ähnliches. Diese sollen in genauere Angaben mit Abkürzungen überführt werden, z.B. 200g Sahne anstatt 1 Becher Sahne. Der Inhalt pro Becher kann variieren, z.B. bei Bioprodukten, und wie viel enthalten ist steht sowieso auf der Verpackung.
+
+Das soll gemacht werden, wenn es Sinn ergibt - es ist nicht nötig, die "1 Prise Salz" mit der Küchenwaage zu überprüfen, um das absolut genau eintragen zu können.
 
 <h3>Umrechnungshilfen</h3>
 <p>Sollten die untenstehenden Bilder nicht als Umrechnungshilfe ausreichen,
