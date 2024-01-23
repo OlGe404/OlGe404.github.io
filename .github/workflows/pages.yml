@@ -11,7 +11,7 @@ permissions:
   pages: write
   id-token: write
 
-# Allow one concurrent deployment
+# Cancel running builds when new changes are pushed
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -41,11 +41,12 @@ jobs:
         uses: actions/upload-pages-artifact@v1
 
   deploy:
+    runs-on: ubuntu-22.04
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-22.04
-    needs: build
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
