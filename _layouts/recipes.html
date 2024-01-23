@@ -19,7 +19,12 @@ layout: default
 <p><img src="{{ page.image }}" alt="{{ page.title }}" style="border: 1px solid #000;"></p>
 {% endif %}
 
+{% if page.servings %}
+<h2>Zutatenliste für {{ page.servings }} Portionen</h2>
+{% else %}
 <h2>Zutatenliste</h2>
+{% endif %}
+
 <ul>
     {% for ingredient in page.ingredients %}
         <li>{{ ingredient }}</li>

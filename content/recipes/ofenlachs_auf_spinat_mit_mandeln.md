@@ -4,6 +4,7 @@ layout: recipes
 parent: Hauptspeisen
 source: https://emmikochteinfach.de/einfacher-ofen-lachs-auf-spinat/
 image: https://emmikochteinfach.de/wp-content/uploads/2021/04/Einfacher-Ofen-Lachs-auf-Spinat-11.webp
+servings: 2
 ingredients:
     - 250g TK Lachs
     - 100g TK Spinat
