@@ -3,7 +3,8 @@ title: Spaghetti Carbonara
 layout: recipes
 parent: Hauptspeisen
 source: https://www.youtube.com/watch?v=ZCSowIQgHPI
-image: https://assets.tmecosys.com/image/upload/t_web600x528/img/recipe/ras/Assets/0346a29a89ef229b1a0ff9697184f944/Derivates/cb5051204f4a4525c8b013c16418ae2904e737b7.jpg
+image: https://szm-media.sueddeutsche.de/image/szm/952148cb122724c9cbf2ac22653e2c47/t103l0w997h560/1280/image.jpeg
+servings: 2
 ingredients:
     - 125g Bacon, gewürfelt (am Besten Guanciale, aber wer hat sowas schon zuhause ¯\_(ツ)_/¯)
     - 50g Parmigiano Reggiano
