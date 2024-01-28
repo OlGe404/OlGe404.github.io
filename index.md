@@ -15,17 +15,14 @@ nav_order: 0
 Vegetarisch
 {: .label .label-green }
 
-Viel Protein
+Soul Food
 {: .label }
 
-Kein Zucker
+Schnell und einfach
 {: .label .label-purple }
 
-Wenig Kohlenhydrate
+Asiatisch
 {: .label .label-yellow }
-
-Laktosefrei
-{: .label .label-green }
 
 <p>Viel Spaß beim nachkochen! ( ͡ᵔ ͜ʖ ͡ᵔ )</p>
 
