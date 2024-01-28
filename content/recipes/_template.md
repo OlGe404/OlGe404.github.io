@@ -1,3 +1,5 @@
+
+```yaml
 ---
 # Nur die Werte ändern, wo <Platzhalter> vorhanden sind (ᵔᴥᵔ)
 # Im Zweifel in die Datei eines vorhandenen Rezepts schauen.
@@ -17,7 +19,6 @@ instructions:
     - <Schritt 1>
     - <Schritt 2>
     - <Schritt 3>
-
 ---
 "<schlagwort 1>"
 {: .label .label-purple }
@@ -27,3 +28,4 @@ instructions:
 
 "<schlagwort 3>"
 {: .label .label-yellow }
+```
