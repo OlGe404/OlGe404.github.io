@@ -15,11 +15,11 @@ ingredients:
     - Pfeffer
 
 instructions:
-    - Den Käse reiben und mit einem ganzen Ei und einem Eigelb vermischen.
+    - Den Käse reiben und mit einem ganzen Ei und einem Eigelb in einer Schüssel vermischen.
     - Den Bacon in einer Pfanne auf hoher Hitze anbraten (Stufe 6/9) und herausnehmen, wenn er knusprig ist. Währenddessen mit dem Rezept fortfahren.
-    - 1l Wasser mit 1TL Salz in einem Topf zum kochen bringen und die Nudeln dazu geben. Die Nudeln 2 Min kürzer als auf der Verpackung angegeben kochen und abgoießen, vorher ~150ml von dem Pastawasser abschöpfen (wichtig!)
-    - Die Herdplatte abschalten und die Nudeln wieder in dem Topf auf die Herplatte stellen. Dann das abgeschöpfte Pastawasser, den Großteil des Bacon und die Käse-/Ei-Mischung dazu geben. Sofort damit anfangen umzurühren und weitermachen, bis die Soße cremig gewprden ist (ca. 2 Min)
-    - Auf einem Teller anrichten, den restlichen Bacon oben drauf legen und mit schwarzem Pfeffer würzen. Fertig!
+    - 1l Wasser mit 1TL Salz in einem Topf zum kochen bringen und die Nudeln dazu geben. Die Nudeln 2 Min kürzer als auf der Verpackung angegeben kochen und abgießen, vorher ~150ml von dem Pastawasser abschöpfen (wichtig!).
+    - Die Herdplatte abschalten, die Nudeln zurück in den Topf geben und wieder auf die (noch heiße) Herdplatte stellen. Dann das abgeschöpfte Pastawasser, den Großteil vom Bacon und die Käse-/Ei-Mischung dazu geben. Sofort alles umrühren und weitermachen, bis die Soße cremig geworden und die Pasta fertig gekocht ist (ca. 2 Min).
+    - Auf einem Teller anrichten, mit dem restlichen Bacon garnieren und mit schwarzem Pfeffer würzen. Fertig!
 
 ---
 Schnell und einfach
