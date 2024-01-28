@@ -1,9 +1,6 @@
 
 ```yaml
 ---
-# Nur die Werte ändern, wo <Platzhalter> vorhanden sind (ᵔᴥᵔ)
-# Im Zweifel in die Datei eines vorhandenen Rezepts schauen.
-
 title: <Name des Gerichts>
 layout: recipes
 parent: <Eine aus "Frühstück", "Hauptspeisen", "Beilagen", "Soßen", "Nachtisch".>
