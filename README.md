@@ -21,4 +21,4 @@ make
 
 gestartet werden. Die Änderungen am Code werden live aktualisiert, sofern die [_config.yml Datei](_config.yml) nicht bearbeitet wurde. Bei Änderungen an der _config.yml Datei muss der Webserver neugestartet werden.
 
-> :nerd_face:	**Abkürzung**: Die Webseite kann auch mit diesem [vscode.dev](https://vscode.dev/https://github.com/OlGe404/OlGe404.github.io) Link im Browser geöffnet und bearbeitet werden. Für das Starten des lokalen Webservers muss GitHub Codespaces genutzt werden.
+> :nerd_face:	**Abkürzung**: Die Webseite kann auch mit diesem [vscode.dev](https://vscode.dev/https://github.com/OlGe404/OlGe404.github.io) Link im Browser geöffnet und bearbeitet werden. Für das Starten des lokalen Webservers muss [GitHub Codespaces](https://github.com/codespaces) genutzt werden.
