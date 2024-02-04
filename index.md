@@ -31,7 +31,7 @@ Asiatisch
 <p>Damit das Rezeptbuch einheitlich und leicht zu benutzen ist, überflieg bitte die folgenden Grundlagen, bevor du ein neues Rezept hinzufügst.</p>
 
 <h3>Duplikate</h3>
-<p>Es sollte die Suche benutzt werden, bevor ein neues Rezept hinzugefügt wird. Wenn ein ähnliches Rezept vorhanden ist, füg bitte kein neues Rezept hinzu (außer du bist dir sicher dass deins besser schmeckt oder einfacher gelingt, weil das vorhandene Rezept schon ausprobiert wurde).</p>
+<p>Es sollte die Suche benutzt werden, bevor ein neues Rezept hinzugefügt wird. Wenn ein ähnliches Rezept vorhanden ist, füg bitte kein neues Rezept hinzu (außer du bist dir sicher dass deins besser schmeckt oder einfacher gelingt).</p>
 
 <h3>Fremdsprachige Rezepte</h3>
 <p> Rezepte aus fremdsprachigen Quellen sollen ins deutsche übersetzt werden. Das gilt für Maßeinheiten, Temperaturangaben, die Zutatenliste und Zubereitungsanleitungen. Im Grunde für alles, außer dem Namen des Rezepts.</p>
