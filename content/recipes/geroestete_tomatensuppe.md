@@ -24,15 +24,15 @@ ingredients:
 
 instructions:
     - Die Dattentomaten längs halbieren und in eine Schüssel geben.
-    - 1EL Olivenöl, 2TL brauner Zucker und 1 Prise Salz hinzugeben und vermischen
-    - Die Knoblauch Knolle ungeschält (mit einem Sägemesser) halbieren und oben mit Olivenöl bestreichen.
-    - Die halbierte Knoblauch Knolle in die Mitte eines sauberen Backblechs stellen, die Tomaten drum herum verteilen.
-    - Alles zusammen bei 180°C Umluft für 30-45 Min im Ofen rösten. Nach 30 Min alle 5 Minuten überprüfen, wie braun es geworden ist - wenige, kleine schwarze Stellen sind okay!
-    - Anschließend die Zwiebeln grob klein schneiden und in einem Topf bei mittlerer Hitze (5/9) in der Butter anbraten, dann die Tomaten und den ausgedrückten Knoblauch mit dazu geben.
+    - 1EL Olivenöl, 2TL brauner Zucker und 1 Prise Salz hinzugeben und vermischen.
+    - Von der ungeschälten Knoblauch Knolle das obere viertel abschneiden (mit einem Sägemesser).
+    - Das größere Stück der Knoblauch Knolle in die Mitte eines sauberen Backblechs stellen und oben mit Olivenöl bestreichen, die Tomaten drumherum verteilen.
+    - Alles zusammen bei 180°C Umluft für 40-50 Min im Ofen rösten. Nach 35 Min alle 5 Minuten überprüfen, wie braun es geworden ist - wenige, kleine schwarze Stellen sind okay!
+    - Anschließend die Zwiebeln grob klein schneiden und in einem Topf bei mittlerer Hitze (5/9) in der geschmolzenen Butter anbraten, dann die Tomaten und den ausgedrückten Knoblauch mit dazu geben.
     - Die Kräuter von den Zweigen lösen und mit dazu geben, dann mit der Gemüsebrühe und dem Tomatensaft ablöschen.
     - Alles für 15 Min bei niedriger Hitze (3/9) leicht köcheln lassen.
     - Währenddessen das Baguette in Scheiben schneiden, mit Knoblauchgranulat würzen und mit etwas Olivenöl bestreichen. Für 15 Min bei 150°C Umluft in den Ofen geben (bis die Oberseite goldbraun geworden ist).
-    - Den Inhalt des Topfes pürieren, bis eine Suppe entstanden ist. Fertig!
+    - Den Inhalt des Topfes mit einem Stabmixer pürieren, bis eine Suppe entstanden ist. Fertig!
 
 ---
 Vegetarisch
