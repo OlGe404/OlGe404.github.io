@@ -41,9 +41,12 @@ instructions:
     - Die Speisestärke in die Schüssel mit dem Hähnchen und der Marinade geben und alles gut vermischen, damit die Marinade am Fleisch bleibt.
     - Das marinierte Hähnchen in die Pfanne geben und anbraten, sodass die Stücke auf jeder Seite farbe bekommen. Darauf achten, dass die Stücke nicht aneinander kleben.
     - Wenn das Hähnchen von allen Seiten Farbe hat wird es aus der Pfanne genommen und zurück in die Schüssel gegeben. Die Pfanne auf mittlere Hitze (5/9) herunterdrehen.
-    - Jetzt die Paprika würfeln, die Lauchzwiebeln in scheiben schneiden und in der Pfanne anbraten.
+    - Jetzt die Paprika würfeln, die Lauchzwiebeln in Scheiben schneiden (ein wenig Lauchzwiebeln zum Garnieren zurückhalten) und in der Pfanne anbraten.
     - Nach 5 Minuten sie Soße hinzugeben und die Hitze wieder hochdrehen (7/9).
     - Wenn die Soße andickt das Hähnchen und die Ananasstücke dazu geben und für 2 Min kochen. Anschließend mit dem Reis servieren. Fertig!
 ---
-Vegetarisch
+Asiatisch
+{: .label .label-yellow }
+
+Soul Food
 {: .label .label-purple }
