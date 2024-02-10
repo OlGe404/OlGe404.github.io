@@ -9,7 +9,7 @@ ingredients:
     - ===== Hauptzutaten =====
     - 500g Hähnchenbrustfilets
     - 1 Tasse Reis
-    - 1 Dose Ananasstücke (140g Abtropfgewicht)
+    - 1 Dose Ananasstücke (140g Abtropfgewicht), ungesüßt/natursüß
     - 2 Frühlingszwiebeln
     - 1 rote Paprika
     - 4EL Rapsöl
