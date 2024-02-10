@@ -32,7 +32,7 @@ instructions:
     - Die Kräuter von den Zweigen lösen und mit dazu geben, dann mit der Gemüsebrühe und dem Tomatensaft ablöschen.
     - Alles für 15 Min bei niedriger Hitze (3/9) leicht köcheln lassen.
     - Währenddessen das Baguette in Scheiben schneiden, mit Knoblauchgranulat würzen und mit etwas Olivenöl bestreichen. Für 15 Min bei 150°C Umluft in den Ofen geben (bis die Oberseite goldbraun geworden ist).
-    - Den Inhalt des Topfes mit einem Stabmixer pürieren, bis eine Suppe entstanden ist. Fertig!
+    - Den Inhalt des Topfes mit einem Stabmixer pürieren, bis eine Suppe entstanden ist. Nach Geschmack mit (Cayenne-)Pfeffer und Salz würzen. Fertig!
 
 ---
 Vegetarisch
