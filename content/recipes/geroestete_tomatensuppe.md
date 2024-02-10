@@ -1,5 +1,5 @@
 ---
-title: Tomatensuppe mit Baguette
+title: Geröstete Tomatensuppe mit Knoblauchbaguette
 layout: recipes
 parent: Hauptspeisen
 source: https://www.tiktok.com/@brot.mit.ei/video/7145844841212022022
