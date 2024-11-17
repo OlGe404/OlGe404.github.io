@@ -3,11 +3,7 @@
 .SILENT:
 .ONESHELL:
 
-GIT_ROOT := $(shell git rev-parse --show-toplevel)
-
-start-server: cdroot
+start-server:
+	cd $(shell git rev-parse --show-toplevel)
 	bundle install
 	bundle exec jekyll serve --livereload
-
-cdroot:
-	cd $(GIT_ROOT)
