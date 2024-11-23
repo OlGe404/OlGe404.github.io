@@ -4,17 +4,18 @@ title: Neues Rezept hinzufügen
 nav_order: 5
 has_children: false
 ---
-<h2>Neues Rezept hinzufügen</h2>
+<h1>Neues Rezept hinzufügen</h1>
 <p>Jeder kann neue Rezepte zum Rezeptbuch hinzufügen. <a href="https://github.com/OlGe404/OlGe404.github.io/blob/main/README.md" target="_blank">Unter diesem Link wird erklärt wie das geht.</a></p>
+
 <p>Damit das Rezeptbuch einheitlich und leicht zu benutzen ist, überflieg bitte die folgenden Grundlagen, bevor du ein neues Rezept hinzufügst.</p>
 
-<h3>Duplikate</h3>
+<h2>Duplikate</h2>
 <p>Es sollte die Suche benutzt werden, bevor ein neues Rezept hinzugefügt wird. Wenn ein ähnliches Rezept vorhanden ist, füg bitte kein neues Rezept hinzu (außer du bist dir sicher dass deins besser schmeckt oder einfacher gelingt).</p>
 
-<h3>Fremdsprachige Rezepte</h3>
+<h2>Fremdsprachige Rezepte</h2>
 <p> Rezepte aus fremdsprachigen Quellen sollen ins deutsche übersetzt werden. Das gilt für Maßeinheiten, Temperaturangaben, die Zutatenliste und Zubereitungsanleitungen. Im Grunde für alles, außer dem Namen des Rezepts.</p>
 
-<h3>Maßeinheiten</h3>
+<h2>Maßeinheiten</h2>
 <p>Die folgenden Maßeinheiten und ihre Abkürzungen sollen benutzt werden:</p>
 
 | Maßeinheit        | Abkürzung | Beispiel                            |
