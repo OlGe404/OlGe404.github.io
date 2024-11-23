@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Neues Rezept hinzufügen
+title: Rezept hinzufügen
 nav_order: 5
 has_children: false
 ---
-<h1>Neues Rezept hinzufügen</h1>
+<h1>Ein Rezept hinzufügen ლ(´ڡ`ლ)</h1>
 <p>Jeder kann neue Rezepte zum Rezeptbuch hinzufügen. <a href="https://github.com/OlGe404/OlGe404.github.io/blob/main/README.md" target="_blank">Unter diesem Link wird erklärt wie das geht.</a></p>
 
 <p>Damit das Rezeptbuch einheitlich und leicht zu benutzen ist, überflieg bitte die folgenden Grundlagen, bevor du ein neues Rezept hinzufügst.</p>
