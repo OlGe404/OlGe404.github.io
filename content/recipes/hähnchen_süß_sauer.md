@@ -3,7 +3,7 @@ title: Hähnchen Süß-Sauer mit Reis
 layout: recipes
 parent: Hauptspeisen
 source: https://emmikochteinfach.de/haehnchen-suess-sauer-rezept/
-image: https://ineverfinishanyth.de/wp-content/uploads/2022/03/PXL_20211113_171215203.PORTRAIT-scaled.jpg
+image: https://vickysreisschale.de/wp-content/uploads/2021/04/IMG_1210-2.jpg
 servings: 2
 ingredients:
     - ===== Hauptzutaten =====
