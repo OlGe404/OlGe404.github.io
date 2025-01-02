@@ -13,7 +13,7 @@ ingredients:
     - Wasser
     - ===== Für den Belag =====
     - 200g Creme fraiche
-    - 125g Speckwürfel
+    - 125g Speckwürfel (oder Bacon-Streifen)
     - 1 große Zwiebel (oder zwei kleinere)
 
 instructions:
@@ -22,8 +22,9 @@ instructions:
     - Anschließend wird mit Wasser aufgefüllt, bis der Teig exakt 255g schwer ist. Dann wird er geknetet bis er nicht mehr klebt und glatt geworden ist. Den Teig in Frischhaltefolie wickeln und zur Seite stellen, denn er muss jetzt mindestens 1h lang ruhen (bis zu 24h im voraus, dann aber im Kühlschrank lagern).
     - Jetzt schneiden wir die Zwiebel(n) in möglichst feine Halbringe und geben sie in eine Schüssel und vermischen sie mit einer Prise Salz. Dann stellen wir sie abgedeckt zur Seite, bis der Teig geruht hat.
     - Wenn der Teig geruht hat, heizen wir den Backofen auf 220°C Ober-/Unterhitze vor. Das Blech zum Backen muss auch im Ofen vorheizen.
-    - Jetzt geben wir etwas Mehl auf ein Stück Backpapier und rollen den Teig möglichst dünn darauf aus. Dann geben wir auf den Rand des Teiges rundherum etwas Rapsöl und verstreichen es mit einem Backpinsel gleichmäßig auf dem Rand des Teiges.
-    - Nun die Creme Fraiche auf den Teig geben und mit einem Löffel gleichmäßig, aber nicht bis ganz zum Rand verteilen.
+    - Jetzt geben wir etwas Mehl auf ein Stück Backpapier und rollen den Teig möglichst dünn darauf aus.
+    - Dann geben wir auf den Rand des Teiges rundherum etwas Rapsöl und verstreichen es mit einem Backpinsel gleichmäßig auf dem Rand des Teiges.
+    - Nun die Creme Fraiche auf den Teig geben und mit einem Löffel gleichmäßig, aber nicht bis ganz zum Rand, verteilen.
     - Dann die Zwiebeln auf der Creme Fraiche verteilen und anschließend die Speckwürfel darüber streuen.
     - Jetzt das Backblech aus dem vorgeheizten Ofen holen, das Backpapier mit dem Flammkuchen darauflegen und den Flammkuchen für ca. 8-12 Minuten (je nach Ofen) backen, bis der Rand goldbraun ist. Fertig!
 
