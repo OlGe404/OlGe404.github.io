@@ -6,8 +6,8 @@ url: https://OlGe404.github.io/rezeptbuch
 
 aux_links_new_tab: true
 aux_links:
-  "Quellcode auf GitHub":
-    - "https://github.com/OlGe404/OlGe404.github.io"
+  "Rezept hinzufügen":
+    - "https://github.com/OlGe404/OlGe404.github.io/blob/main/README.md#hinzuf%C3%BCgen-neuer-rezepte"
 
 search:
   rel_url: false

@@ -1,10 +1,45 @@
 # Rezeptbuch
 Heyho! Hier liegt der Code für die "Rezeptbuch" Webseite von OlGe404 (https://olge404.github.io).
 
-# Hinzufügen neuer Rezepte
-Um neue Rezepte hinzufügen, müssen diese in dem [recipes Ordner](content/recipes) als ``.md`` Datei hinterlegt werden. Wer das nicht auf dem "main" Branch darf, kann einen Pull Request erstellen.
+# Ein Rezept hinzufügen ლ(´ڡ`ლ)
+Um neue Rezepte hinzufügen, müssen diese im [recipes Ordner](content/recipes) als Datei hinterlegt werden. Wer das nicht auf dem "main" Branch darf, kann einen Pull Request erstellen.
 
-Als Vorlage soll die [Template Datei](content/recipes/_template.md) benutzt werden. Es ist wichtig dass die Formatierung und Syntax aus dem Template übernommen wird, weil der Bau der Webseite sonst fehlschlagen kann. Das ist zwar kein Beinbruch, verhindert aber bis zur Fehlerbehebung das automatische Aktualisieren der Webseite.
+Als Vorlage soll die [Template Datei](content/recipes/_template.md) benutzt werden. Es ist wichtig, dass die Formatierung und Syntax aus dem Template übernommen wird, weil der Bau der Webseite sonst fehlschlagen kann. Das ist zwar kein Beinbruch, verhindert aber bis zur Fehlerbehebung das automatische Aktualisieren der Webseite.
+
+Damit das Rezeptbuch einheitlich und leicht zu benutzen ist, überflieg bitte die folgenden Grundlagen, bevor du ein neues Rezept hinzufügst.
+
+## Duplikate
+Es sollte die Suche benutzt werden, bevor ein neues Rezept hinzugefügt wird. Wenn ein ähnliches Rezept vorhanden ist, füg bitte kein neues Rezept hinzu (außer du bist dir sicher dass deins besser schmeckt oder einfacher gelingt).
+
+## Fremdsprachige Rezepte
+Rezepte aus fremdsprachigen Quellen sollen ins deutsche übersetzt werden. Das gilt für Maßeinheiten, Temperaturangaben, die Zutatenliste und Zubereitungsanleitungen. Im Grunde für alles, außer dem Namen des Rezepts.
+
+### Maßeinheiten
+Die folgenden Maßeinheiten und ihre Abkürzungen sollen benutzt werden:
+
+| Maßeinheit        | Abkürzung | Beispiel                            |
+|:------------------|:----------|:------------------------------------|
+| Gramm             | g         | 1g Salz, 0,5g Hefe                  |
+| Kilogramm         | kg        | 1kg Schweinebauch, 0,5kg Rinderhack |
+| Milliliter        | ml        | 100ml Wasser                        |
+| Liter             | l         | 1l Wasser, 0,5l Brühe               |
+| Teelöffel         | TL        | 1 TL Backpulver, 0,5 TL Natron      |
+| Esslöffel         | EL        | 1 EL Butter, 0,5 EL Zucker          |
+
+Weitere Maßeinheiten ohne Abkürzung:
+
+* 1 Prise Salz
+* 1 Stück Butter
+* 1 Würfel Hefe
+* 1 Becher Sahne
+
+... und ähnliches. Diese sollen in genauere Angaben mit Abkürzungen überführt werden, z.B. 200g Sahne anstatt 1 Becher Sahne. Der Inhalt pro Becher kann variieren, z.B. bei Bioprodukten, und wie viel enthalten ist steht sowieso auf der Verpackung. Das soll dann gemacht werden, wenn es Sinn ergibt - es ist nicht nötig, die "1 Prise Salz" mit der Küchenwaage zu überprüfen, um das absolut genau eintragen zu können.
+
+### Umrechnungshilfen
+Sollten die untenstehenden Bilder nicht als Umrechnungshilfe ausreichen,
+ist hier ein [Link zu einer umfangreicheren Quelle](https://www.usa-kulinarisch.de/informationen/masseinheiten-umrechnen/).
+
+![](/assets/imgs/cup_measures.jpg)
 
 ## Technische Details
 Die Webseite ist mit [jekyll](https://jekyllrb.com/) und dem [just-the-docs](https://github.com/just-the-docs/just-the-docs) Theme erstellt worden. Sie wird aus den Dateien in diesem Repo gebaut und das Ergebnis wird auf GitHub Pages gehostet.
