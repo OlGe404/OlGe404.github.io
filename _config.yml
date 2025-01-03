@@ -19,10 +19,13 @@ exclude:
   - .github
   - .gitignore
   - .ruby-version
+  - converter.py
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - Makefile
+  - python3-venv.sh
   - README.md
   - renovate.json
+  - requirements.txt
   - to-dos.md
