@@ -3,7 +3,7 @@ title: Spaghetti Carbonara
 layout: recipes
 parent: Hauptspeisen
 source: https://www.youtube.com/watch?v=ZCSowIQgHPI
-image: https://szm-media.sueddeutsche.de/image/szm/952148cb122724c9cbf2ac22653e2c47/t103l0w997h560/1280/image.jpeg
+image: /assets/imgs/spaghetti_carbonara.jpg
 servings: 2
 ingredients:
     - 125g Bacon, gewürfelt (am Besten Guanciale, aber wer hat sowas schon zuhause ¯\_(ツ)_/¯)
