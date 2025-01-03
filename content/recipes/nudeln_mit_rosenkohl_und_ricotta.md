@@ -3,7 +3,7 @@ title: Pasta mit Rosenkohl, Mandeln und Ricotta
 layout: recipes
 parent: Hauptspeisen
 source: https://emmikochteinfach.de/schnelle-pasta-mit-rosenkohl-mandeln-ricotta/
-image: https://emmikochteinfach.de/wp-content/uploads/2017/03/Fettucine-mit-Rosenkohl-und-Ricotta-2.webp
+image: /assets/imgs/nudeln_mit_rosenkohl_und_ricotta.jpg
 servings: 2
 ingredients:
     - 200g Bandnudeln
