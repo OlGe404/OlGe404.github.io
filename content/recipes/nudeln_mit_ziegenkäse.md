@@ -11,7 +11,7 @@ ingredients:
     - 4 Knoblauchzehen
     - 200g Kirschtomaten
     - 1TL brauner Zucker
-    - 1,5TL getrocknete Kräuter der Province
+    - 1EL getrocknete Kräuter der Province
     - Olivenöl, Salz und Pfeffer
 
 instructions:
