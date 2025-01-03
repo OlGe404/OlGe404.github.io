@@ -23,6 +23,7 @@ def convert_md_to_json(input="content/recipes", output="assets/recipes.json"):
                 with open(filepath, 'r', encoding='utf-8') as file:
                     post = frontmatter.load(file)
                     title = post.get("title")
+                    parent = post.get("parent")
                     ingredients = post.get("ingredients")
 
                     if not title:
@@ -38,6 +39,7 @@ def convert_md_to_json(input="content/recipes", output="assets/recipes.json"):
                     sanitized_ingredients = sanitize(ingredients)
                     recipes.append({
                         "title": title,
+                        "parent": parent,
                         "ingredients": sanitized_ingredients,
                     })
 
