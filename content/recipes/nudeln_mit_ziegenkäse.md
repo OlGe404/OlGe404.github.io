@@ -3,7 +3,7 @@ title: Nudeln mit Ziegenkäse, Kirschtomaten und Kräutern
 layout: recipes
 parent: Hauptspeisen
 source: Inspiriert durch Mikael ᕙ(⇀‸↼‶)ᕗ
-image: https://foodnphoto.de/wp-content/uploads/2021/02/baked-feta-pasta-800x571.jpg
+image: /assets/imgs/nudeln_mit_ziegenkaese.jpg
 servings: 2
 ingredients:
     - 200g Nudeln (z.B. Fussili, Penne)
