@@ -2,9 +2,9 @@
 Heyho! Hier liegt der Code für die "Rezeptbuch" Webseite von OlGe404 (https://olge404.github.io).
 
 # Ein Rezept hinzufügen ლ(´ڡ`ლ)
-Um ein neues Rezept hinzuzufügen, müssen das Rezept im [recipes Ordner](content/recipes) als Markdown-Datei hinterlegt werden.
+Um ein neues Rezept hinzuzufügen, muss das Rezept im [recipes Ordner](content/recipes) als Markdown-Datei hinterlegt werden.
 
-Als Vorlage soll dieses [Template](content/recipes/_template.md) benutzt werden. Es ist wichtig, dass die Formatierung und Syntax aus dem Template übernommen wird, weil der Bau der Webseite sonst fehlschlagen kann, was das automatische Aktualisieren der Webseite bei Änderungen verhindert. Es dauert ca. 1 Minute, bis die Webseite nach dem Hinzufügen eines neuen Rezepts automatisch aktualisiert und das Rezept sichtbar wird.
+Als Vorlage muss dieses [Template](content/recipes/_template.md) benutzt werden. Es ist wichtig, dass die Formatierung und Syntax aus dem Template übernommen wird, weil sonst das automatische Aktualisieren der Webseite fehlschlägt. Nach dem Hinzufügen oder verändern eines Rezepts dauert es ca. 1 Minute, bis die Webseite automatisch aktualisiert wurde und die Änderungen sichtbar werden.
 
 Damit das Rezeptbuch einheitlich und leicht zu benutzen ist, überflieg bitte die folgenden Grundlagen, bevor du ein neues Rezept hinzufügst.
 
