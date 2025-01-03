@@ -42,4 +42,4 @@ Weitere Maßeinheiten ohne Abkürzung:
 ist hier ein <a href="https://www.usa-kulinarisch.de/informationen/masseinheiten-umrechnen/" target="_blank">Link zu einer umfangreicheren Quelle.</a>
 </p>
 
-<img src="/assets/images/cup-measures.jpg">
+<img src="/assets/imgs/cup-measures.jpg">
