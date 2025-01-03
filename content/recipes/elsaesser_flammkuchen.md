@@ -4,6 +4,7 @@ title: Elsässer Flammkuchen
 parent: Hauptspeisen
 source: https://youtu.be/OawZRbS2IQY?si=JieyJ7hRWyG_EFE9
 image: /assets/imgs/elsaesser_flammkuchen.jpg
+servings: 2
 ingredients:
     - ===== Für den Teig =====
     - 155g Mehl
