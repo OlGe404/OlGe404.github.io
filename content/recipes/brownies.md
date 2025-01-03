@@ -3,7 +3,7 @@ layout: recipes
 title: Brownies
 parent: Nachtisch
 source: https://www.youtube.com/watch?v=Wo8KqDyRexU
-image: https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/facebook/public/2018-07/brownies-1_zuschnitt_bearb-png-converted.jpg?h=7cece4cc&itok=csyujo4o
+image: /assets/imgs/brownies.jpg
 ingredients:
     - 340g dunkle Schokolade (50/50 mit anderer Schokolade ist auch lecker)
     - 250g Butter
