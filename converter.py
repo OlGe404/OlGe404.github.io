@@ -22,27 +22,26 @@ def convert_md_to_json(input="content/recipes", output="assets/recipes.json"):
             try:
                 with open(filepath, 'r', encoding='utf-8') as file:
                     post = frontmatter.load(file)
-                    if post.get("parent") == "Hauptspeisen":
-                        title = post.get("title")
-                        ingredients = post.get("ingredients")
+                    title = post.get("title")
+                    ingredients = post.get("ingredients")
 
-                        if not title:
-                            err = "missing or empty 'title'"
-                            failed.append({"file": filename, "reason": err})
-                            continue
+                    if not title:
+                        err = "missing or empty 'title'"
+                        failed.append({"file": filename, "reason": err})
+                        continue
 
-                        if not ingredients or len(ingredients) == 0:
-                            err = "missing or empty 'ingredients' list"
-                            failed.append({"file": filename, "reason": err})
-                            continue
+                    if not ingredients or len(ingredients) == 0:
+                        err = "missing or empty 'ingredients' list"
+                        failed.append({"file": filename, "reason": err})
+                        continue
 
-                        sanitized_ingredients = sanitize(ingredients)
-                        recipes.append({
-                            "title": title,
-                            "ingredients": sanitized_ingredients,
-                        })
+                    sanitized_ingredients = sanitize(ingredients)
+                    recipes.append({
+                        "title": title,
+                        "ingredients": sanitized_ingredients,
+                    })
 
-                        success.append(filename)
+                    success.append(filename)
 
             except Exception as err:
                 failed.append({"file": filename, "reason": err})
