@@ -5,7 +5,7 @@ title: <Name des Gerichts>
 layout: recipes
 parent: <Eine aus "Frühstück", "Hauptspeisen", "Beilagen", "Soßen", "Nachtisch".>
 source: <Link zur Originalquelle>
-image: <Link zu einem Beispielbild (◕‿◕✿)>
+image: <Link zu einem Beispielbild (◕‿◕✿)> (lokal unter "/assets/imgs" oder als Weblink)
 servings: <Anzahl der Portionen>
 ingredients:
     - <Zutat 1>

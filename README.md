@@ -2,9 +2,9 @@
 Heyho! Hier liegt der Code für die "Rezeptbuch" Webseite von OlGe404 (https://olge404.github.io).
 
 # Ein Rezept hinzufügen ლ(´ڡ`ლ)
-Um neue Rezepte hinzufügen, müssen diese im [recipes Ordner](content/recipes) hinterlegt werden.
+Um ein neues Rezept hinzuzufügen, müssen das Rezept im [recipes Ordner](content/recipes) als Markdown-Datei hinterlegt werden.
 
-Als Vorlage soll die [Template Datei](content/recipes/_template.md) benutzt werden. Es ist wichtig, dass die Formatierung und Syntax aus dem Template übernommen wird, weil der Bau der Webseite sonst fehlschlagen kann. Das ist zwar kein Beinbruch, verhindert aber bis zur Fehlerbehebung das automatische Aktualisieren der Webseite.
+Als Vorlage soll dieses [Template](content/recipes/_template.md) benutzt werden. Es ist wichtig, dass die Formatierung und Syntax aus dem Template übernommen wird, weil der Bau der Webseite sonst fehlschlagen kann, was das automatische Aktualisieren der Webseite bei Änderungen verhindert. Es dauert ca. 1 Minute, bis die Webseite nach dem Hinzufügen eines neuen Rezepts automatisch aktualisiert und das Rezept sichtbar wird.
 
 Damit das Rezeptbuch einheitlich und leicht zu benutzen ist, überflieg bitte die folgenden Grundlagen, bevor du ein neues Rezept hinzufügst.
 
@@ -33,7 +33,7 @@ Weitere Maßeinheiten ohne Abkürzung:
 * 1 Würfel Hefe
 * 1 Becher Sahne
 
-... und ähnliches. Diese sollen in genauere Angaben mit Abkürzungen überführt werden, z.B. 200g Sahne anstatt 1 Becher Sahne. Der Inhalt pro Becher kann variieren, z.B. bei Bioprodukten, und wie viel enthalten ist steht sowieso auf der Verpackung. Das soll dann gemacht werden, wenn es Sinn ergibt - es ist nicht nötig, die "1 Prise Salz" mit der Küchenwaage zu überprüfen.
+... und ähnliches. Diese sollen in genauere Angaben mit Abkürzungen überführt werden, z.B. 200g Sahne anstatt 1 Becher Sahne. Der Inhalt pro Becher kann variieren, z.B. bei Bioprodukten, und wie viel enthalten ist steht sowieso auf der Verpackung. Das soll dann gemacht werden, wenn es Sinn ergibt - es ist nicht nötig, "1 Prise Salz" mit der Küchenwaage zu überprüfen.
 
 ### Umrechnungshilfen
 Sollten die untenstehenden Bilder nicht als Umrechnungshilfe ausreichen,
