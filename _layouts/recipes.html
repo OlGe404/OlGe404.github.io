@@ -7,7 +7,7 @@ layout: default
 {{ content }}
 
 {% if page.source == "" or page.source == nil %}
-    <p>Keine Quelle zum Orignalrezept angegeben ¯\_(ツ)_/¯</p>
+    <p>Keine Quelle angegeben ¯\_(ツ)_/¯</p>
 {% elsif page.source contains "https://" %}
     <p><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
 {% else %}
