@@ -14,7 +14,7 @@ Bei Commit auf den "main" Branch wird die Webseite über GitHub Actions automati
 ### Lokale Entwicklung
 Um an der Webseite lokal weiterzuentwickeln, wird die ruby version benötigt, die in dem [ruby-version file](.ruby-version) aufgeführt ist. Diese wird auch durch GitHub Actions beim Bau der Webseite benutzt. Zusätzlich müssen [die Voraussetzungen für jekyll](https://jekyllrb.com/docs/installation/) erfüllt sein.
 
-Anschließend kann das Repo lokal geklont und der Webserver mit 
+Anschließend kann das Repo geklont und der lokale Webserver mit 
 
 ```bash
 make
@@ -22,6 +22,6 @@ make
 
 gestartet werden. 
 
-Änderungen am Code werden im Browser live aktualisiert, sofern die [_config.yml Datei](_config.yml) nicht bearbeitet wurde. Bei Änderungen an der _config.yml Datei muss der Webserver neugestartet werden.
+Änderungen am Code werden durch den lokalen Webserver live im Browser aktualisiert, sofern die [_config.yml Datei](_config.yml) nicht verändert wurde. Bei Änderungen an der _config.yml-Datei muss der Webserver neugestartet werden. Dafür den Prozess mit `strg+c` abbrechen und `make` erneut ausführen.
 
 > :nerd_face:	**Abkürzung**: Die Webseite kann auch mit diesem [vscode.dev](https://vscode.dev/https://github.com/OlGe404/OlGe404.github.io) Link im Browser geöffnet und bearbeitet werden. Für das Starten des lokalen Webservers mit der Entwicklungsumgebung im Browser kann [GitHub Codespaces](https://github.com/codespaces) genutzt werden.
