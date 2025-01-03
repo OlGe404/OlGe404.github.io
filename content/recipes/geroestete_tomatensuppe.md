@@ -3,7 +3,7 @@ title: Geröstete Tomatensuppe mit Knoblauchbaguette
 layout: recipes
 parent: Hauptspeisen
 source: https://www.tiktok.com/@brot.mit.ei/video/7145844841212022022
-image: https://www.gutekueche.at/storage/media/recipe/145159/conv/leichte-tomatensuppe-default.jpg
+image: /assets/imgs/geroestete_tomatensuppe.jpg
 servings: 4
 ingredients:
     - 1kg Datteltomaten
