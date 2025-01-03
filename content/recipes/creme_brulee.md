@@ -3,7 +3,7 @@ title: Crème Brûlée
 layout: recipes
 parent: Nachtisch
 source: https://www.youtube.com/watch?v=2SVnonhKEEY
-image: https://img.chefkoch-cdn.de/rezepte/279041105901002/bilder/1502490/crop-642x428/creme-brulee.jpg
+image: /assets/imgs/creme_brulee.jpg
 servings: 4
 ingredients:
     - 500g Sahne
