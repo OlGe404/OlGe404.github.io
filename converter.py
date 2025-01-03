@@ -56,7 +56,7 @@ def convert_md_to_json(input="content/recipes", output="assets/recipes.json"):
         print(f"🚨 Failed to write converted recipes to '{output}': {err}")
 
     if len(success) > 0:
-        print("\n✅ Successfully converted:")
+        print("\n✅ Successfully converted md-files to json:")
         for file in success:
             print(f" - {file}")
     
