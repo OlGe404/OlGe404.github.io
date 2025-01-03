@@ -3,7 +3,7 @@ title: Hefezopf mit Quark-Füllung
 layout: recipes
 parent: Frühstück
 source: https://www.backenmachtgluecklich.de/rezepte/hefezopf-mit-quark-fuellung.html
-image: https://www.backenmachtgluecklich.de/media/2020/01/Hefezopf-Quark-Zimt-Fuellung-scaled.jpg
+image: /assets/imgs/hefezopf_mit_quark_fuellung.jpg
 ingredients:
     - ===== Für den Teig =====
     - 20g Frische Hefe (oder 1 Pkg Trockenhefe)
