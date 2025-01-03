@@ -1,6 +1,6 @@
 ---
 title: Rezeptbuch
-description: Sammlung von Rezepten zur einfachen Suche und zum nachkochen!
+description: Sammlung von Koch- und Backrezepten zur einfachen Suche und zum nachkochen!
 theme: just-the-docs
 url: https://OlGe404.github.io/rezeptbuch
 
@@ -16,7 +16,13 @@ search:
   preview_words_after: 5
 
 exclude:
-  - Makefile
+  - .github
+  - .gitignore
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
+  - Makefile
   - README.md
+  - renovate.json
   - to-dos.md
