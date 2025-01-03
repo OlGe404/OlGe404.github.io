@@ -3,7 +3,7 @@ layout: recipes
 title: Elsässer Flammkuchen
 parent: Hauptspeisen
 source: https://youtu.be/OawZRbS2IQY?si=JieyJ7hRWyG_EFE9
-image: https://imgs.liebenswert-magazin.de/elsaesser-flammkuchen,id=6f5a4c5c,b=liebenswert,w=1600,ca=0.00,0.00,100.00,100.00,rm=sk.jpeg
+image: /assets/imgs/elsaesser_flammkuchen.jpg
 ingredients:
     - ===== Für den Teig =====
     - 155g Mehl
