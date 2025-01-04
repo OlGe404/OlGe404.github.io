@@ -6,13 +6,15 @@ source: Inspiriert durch Mikael ᕙ(⇀‸↼‶)ᕗ
 image: /assets/imgs/nudeln_mit_ziegenkaese.jpg
 servings: 2
 ingredients:
-    - 200g Nudeln (z.B. Fussili, Penne)
-    - 150g Ziegenkäse
-    - 4 Knoblauchzehen
-    - 200g Kirschtomaten
-    - 1TL brauner Zucker
-    - 1EL getrocknete Kräuter der Province
-    - Olivenöl, Salz und Pfeffer
+    - { name: Nudeln (z.B. Fussili, Penne), amount: 200, unit: g }
+    - { name: Ziegenkäse (oder Feta), amount: 150, unit: g }
+    - { name: Knoblauch, amount: 4, unit: Zehen }
+    - { name: Kirchtomaten, amount: 200, unit: g }
+    - { name: Brauner Zucker, amount: 1, unit: TL }
+    - { name: Kräuter der Province, amount: 1, unit: EL }
+    - { name: Olivenöl }
+    - { name: Prise Salz, amount: 1 }
+    - { name: Prise Pfeffer, amount: 1 }
 
 instructions:
     - Die Knoblauchzehen schälen und kleinhacken (oder durch eine Presse geben).
@@ -24,8 +26,3 @@ instructions:
     - Die abgegossenen Nudeln zurück in den Topf geben und auf das vorher benutzte, ausgeschaltete Kochfeld setzen. Jetzt den Inhalt der Auflaufform mit dem abgeschöpften Nudelwasser dazu geben und alles im Topf vermischen, bis nach 1-2 Minuten die Soße andickt und cremig geworden ist. Die Soße sollte jetzt etwas zu flüssig sein, weil sie beim abkühlen auf dem Teller noch andickt.
     - Wenn die Soße die gewünschte Cremigkeit erreicht hat, servieren. Fertig!
 ---
-Schnell und einfach
-{: .label .label-purple }
-
-Vegetarisch
-{: .label .label-green }

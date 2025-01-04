@@ -1,17 +1,17 @@
 ---
-title: Crème Brûlée
 layout: recipes
+title: Crème Brûlée
 parent: Nachtisch
 source: https://www.youtube.com/watch?v=2SVnonhKEEY
 image: /assets/imgs/creme_brulee.jpg
 servings: 4
 ingredients:
-    - 500g Sahne
-    - 150g Eigelb
-    - 100g Zucker
-    - 2 Vanilleschoten
-    - Prise Salz
-    - 2 EL brauner Zucker (zum karmellisieren)
+    - { name: Sahne, amount: 500, unit: g }
+    - { name: Eigelb, amount: 150, unit: g }
+    - { name: Zucker, amount: 100, unit: g }
+    - { name: Vanilleschoten, amount: 2, unit: ~ }
+    - { name: Prise Salz, amount: 1, unit: ~ }
+    - { name: Brauner Zucker, amount: 2, unit: EL }
 
 instructions:
     - Die Vanilleschoten längst aufschneiden und das Mark auskratzen.
@@ -22,11 +22,3 @@ instructions:
     - Nach ca. 45 Minuten nehmen wir die Förmchen heraus und überprüfen, ob  die richtige Konsistenz erreicht ist. Sie sollte leicht wabbeln und nicht mehr flüssig sein, in der Mitte kann sie ruhig etwas weicher als am Rand sein. Hat die Masse noch nicht die gewünschte Konsistenz erreicht, stellen wir sie für weitere 5 Minuten in den Ofen und überprüfen alle 5 Minuten die Konsistenz, bis sie richtig ist. Erst dann holen wir die Förmchen raus und stellen sie in den Kühlschrank.
     - Kurz vor dem Verzehr die Oberfläche mit braunem Zucker bestreuen und mit einem Bunsenbrenner karamellisieren.
 ---
-silvester
-{: .label .label-purple }
-
-vegetarisch
-{: .label .label-green }
-
-karamell
-{: .label .label-yellow }

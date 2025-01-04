@@ -1,36 +1,33 @@
 ---
-title: Hähnchen Süß-Sauer mit Reis
 layout: recipes
+title: Hähnchen Süß-Sauer mit Reis
 parent: Hauptspeisen
 source: https://emmikochteinfach.de/haehnchen-suess-sauer-rezept/
 image: /assets/imgs/haehnchen_sueß_sauer.jpg
 servings: 2
 ingredients:
-    - ===== Hauptzutaten =====
-    - 500g Hähnchenbrustfilets
-    - 1 Tasse Reis
-    - 1 Dose Ananasstücke (140g Abtropfgewicht), ungesüßt/natursüß
-    - 2 Frühlingszwiebeln
-    - 1 rote Paprika
-    - 4EL Rapsöl
-    - 1El Koriander (optional)
-    - 1EL Sesam
-    - ===== Für die Marinade =====
-    - 2EL Sojasauce
-    - 1TL Salz
-    - 1 Ei
-    - 1 Prise weißer Pfeffer
-    - 5EL Speisestärke
-    - ===== Für die Soße =====
-    - Saft einer Limette
-    - 1TL Salz
-    - 3EL brauner Zucker
-    - 1EL Tomatenmark
-    - 1EL Tomatenketchup
-    - 1EL Sojasauce
-    - 1EL Wasser
-    - 125ml Ananassaft aus der Dose
-    - 1EL Speisestärke
+    - { name: ===== Hauptzutaten ===== }
+    - { name: Hähnchenbrustfilet, amount: 500, unit: g }
+    - { name: Reis, amount: 200, unit: g }
+    - { name: Ananasstücke (ungesüßt), amount: 1, unit: Dose }
+    - { name: Frühlingszwiebel, amount: 2, unit: Stück }
+    - { name: Rapsöl, amount: 4, unit: EL }
+    - { name: Sesam, amount: 1, unit: EL }
+    - { name: ===== Für die Marinade ===== }
+    - { name: Sojasauce, amount: 2, unit: EL }
+    - { name: Salz, amount: 1, unit: TL }
+    - { name: Ei, amount: 1, unit: ~ }
+    - { name: Prise weißer Pfeffer, amount: 1, unit: ~ }
+    - { name: Speisestärke, amount: 5, unit: EL }
+    - { name: ===== Für die Soße ===== }
+    - { name: Limette, amount: 1, unit: ~ }
+    - { name: Salz, amount: 1, unit: TL }
+    - { name: Brauner Zucker, amount: 3, unit: EL }
+    - { name: Tomatenmark, amount: 1, unit: EL }
+    - { name: Tomatenketchup, amount: 1, unit: EL }
+    - { name: Sojasauce, amount: 1, unit: EL }
+    - { name: Wasser, amount: 1, unit: EL }
+    - { name: Speisestärke, amount: 1, unit: EL }
 
 instructions:
     - Den Reis waschen und in einem Reiskocher zubereiten.
@@ -46,8 +43,3 @@ instructions:
     - Nach ca. 5 Min die Soße hinzugeben und die Hitze wieder hochdrehen (7/9).
     - Wenn die Soße andickt das Hähnchen und die Ananasstücke dazugeben und für 2 Min kochen. Anschließend mit dem Reis auf einem Teller geben und mit der Lauchzwiebel und Sesam garnieren. Fertig!
 ---
-Asiatisch
-{: .label .label-yellow }
-
-Soul Food
-{: .label .label-purple }

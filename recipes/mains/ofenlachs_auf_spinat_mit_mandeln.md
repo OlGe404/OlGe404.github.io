@@ -1,23 +1,25 @@
 ---
-title: Ofenlachs auf Spinat mit Mandeln
 layout: recipes
+title: Ofenlachs auf Spinat mit Mandeln
 parent: Hauptspeisen
 source: https://emmikochteinfach.de/einfacher-ofen-lachs-auf-spinat/
 image: /assets/imgs/ofenlachs_auf_spinat_mit_mandeln.jpg
 servings: 2
 ingredients:
-    - 250g TK Lachs
-    - 100g TK Spinat
-    - 100g Sahne
-    - 50g Mandeln, gehobelt
-    - 2 Schalotten
-    - 2 Knoblauchzehen
-    - 2 EL Senf, mittelscharf
-    - 2 EL Zitronensaft
-    - 2 EL Butter
-    - 1 TL brauner Zucker
-    - Salz, Pfeffer, Öl zum anbraten
-    - 1 TL Crème fraîche (optional)
+    - { name: Lachs, amount: 250, unit: g }
+    - { name: Spinat, amount: 100, unit: g }
+    - { name: Sahne, amount: 100, unit: g }
+    - { name: Gehobelte Mandeln, amount: 50, unit: g }
+    - { name: Schalotten, amount: 2 }
+    - { name: Knoblauch, amount: 2, unit: Zehen }
+    - { name: Mittelscharfer Senf, amount: 2, unit: EL }
+    - { name: Zitronensaft, amount: 2, unit: EL }
+    - { name: Butter, amount: 2, unit: EL }
+    - { name: Brauner Zucker, amount: 1, unit: TL }
+    - { name: Salz  }
+    - { name: Pfeffer }
+    - { name: Olivenöl }
+    - { name: Crème Fraîche, amount: 1, unit: TL }
 
 instructions:
     - Eine Pfanne auf mittlerer Hitze (5 von 9) mit etwas Öl vorheizen, den Backofen auf 160°C Umluft vorheizen.
@@ -27,15 +29,5 @@ instructions:
     - Den Spinat in der Schüssel mit einem Löffel o.ä. ausdrücken und das überschüssige Wasser wegkippen.
     - Den Spinat, die Sahne, Crème fraîche (optional), den Senf, den Zitronensaft und den braunen Zucker in die Pfanne geben und vermischen. Mit Salz und Pfeffer würzen.
     - Wenn die Soße andickt den Pfanneninhalt in eine Auflaufform geben und den TK Lachs darauf legen. Die Oberseite vom Lachs mit etwas Öl bestreichen und salzen.
-    - Die Auflaufform für ca. 25 Minuten in den Ofen geben, währenddessen eine Beilage zubereiten (Kartoffelpüree, Kroketten, Reis, ..).
-    - Fertig!
-
+    - Die Auflaufform für ca. 25 Minuten in den Ofen geben, währenddessen eine Beilage zubereiten (Kartoffelpüree, Kroketten, Reis, ..). Fertig!
 ---
-Pescetarisch
-{: .label .label-purple }
-
-Lachs
-{: .label .label-green }
-
-Ofengericht
-{: .label .label-yellow }

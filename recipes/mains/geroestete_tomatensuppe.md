@@ -1,26 +1,26 @@
 ---
-title: Geröstete Tomatensuppe mit Knoblauchbaguette
 layout: recipes
+title: Geröstete Tomatensuppe mit Knoblauchbaguette
 parent: Hauptspeisen
 source: https://www.tiktok.com/@brot.mit.ei/video/7145844841212022022
 image: /assets/imgs/geroestete_tomatensuppe.jpg
 servings: 4
 ingredients:
-    - 1kg Datteltomaten
-    - 1 Knolle Knoblauch
-    - 100g Butter
-    - 2 große Zwiebeln (4 kleine)
-    - 4 Zweige Oregano
-    - 4 Zweige Thymian
-    - 2 zweige Basilikum
-    - 200ml Gemüsebrühe
-    - 250ml Tomatensaft
-    - 1 Baguette
-    - 2TL brauner Zucker
-    - 3 Prisen grobes Meersalz
-    - Knoblauchgranulat
-    - Pfeffer
-    - Olivenöl
+    - { name: Datteltomaten, amount: 1, unit: kg }
+    - { name: Knoblauch, amount: 1, unit: Knolle }
+    - { name: Butter, amount: 100, unit: g }
+    - { name: Zwiebeln (groß), amount: 2, unit: ~ }
+    - { name: Oregano, amount: 4, unit: Zweige }
+    - { name: Thymian, amount: 4, unit: Zweige }
+    - { name: Basilikum, amount: 2, unit: Zweige }
+    - { name: Brühe, amount: 200, unit: ml }
+    - { name: Tomatensaft, amount: 250, unit: ml }
+    - { name: Baguette, amount: 1, unit: ~ }
+    - { name: Brauner Zucker, amount: 2, unit: TL }
+    - { name: Grobes Meersalz, amount: 3, unit: Prisen }
+    - { name: Knoblauchgranulat, amount: ~, unit: ~ }
+    - { name: Pfeffer, amount: ~, unit: ~ }
+    - { name: Olivenöl, amount: ~, unit: ~ }
 
 instructions:
     - Die Dattentomaten längs halbieren und in eine Schüssel geben.
@@ -33,7 +33,4 @@ instructions:
     - Alles für 15 Min bei niedriger Hitze (3/9) leicht köcheln lassen.
     - Währenddessen das Baguette in Scheiben schneiden, mit Knoblauchgranulat würzen und mit etwas Olivenöl bestreichen. Für 15 Min bei 150°C Umluft in den Ofen geben (bis die Oberseite goldbraun geworden ist).
     - Den Inhalt des Topfes mit einem Stabmixer pürieren, bis eine Suppe entstanden ist. Nach Geschmack mit (Cayenne-)Pfeffer und Salz würzen. Fertig!
-
 ---
-Vegetarisch
-{: .label .label-purple }

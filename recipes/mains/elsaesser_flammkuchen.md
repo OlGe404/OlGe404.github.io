@@ -6,16 +6,16 @@ source: https://youtu.be/OawZRbS2IQY?si=JieyJ7hRWyG_EFE9
 image: /assets/imgs/elsaesser_flammkuchen.jpg
 servings: 2
 ingredients:
-    - ===== Für den Teig =====
-    - 155g Mehl
-    - 10g Rapsöl
-    - 1 Ei
-    - 2g Salz
-    - Wasser
-    - ===== Für den Belag =====
-    - 200g Creme fraiche
-    - 125g Speckwürfel (oder Bacon-Streifen)
-    - 1 große Zwiebel (oder zwei kleinere)
+    - { name: ===== Für den Teig ===== }
+    - { name: Mehl, amount: 155, unit: g }
+    - { name: Rapsöl, amount: 10, unit: g }
+    - { name: Ei, amount: 1, unit: ~ }
+    - { name: Salz, amount: 2, unit: g }
+    - { name: Wasser, amount: ~, unit: ~ }
+    - { name: ===== Für den Belag ===== }
+    - { name: Crème Fraîche, amount: 200, unit: g }
+    - { name: Speckwürfel (oder Bacon-Streifen), amount: 125, unit: g }
+    - { name: Zwiebel (groß), amount: 1, unit: ~ }
 
 instructions:
     - BEACHTEN - Es ist eine Küchenwaage notwendig, um den Teig zu mischen. Damit der Flammkuchen knusprig wird ist es notwendig, den Flüssigkeitsgehalt genau zu bestimmen, weshalb alle Zutaten gewogen werden müssen.
@@ -28,10 +28,4 @@ instructions:
     - Nun die Creme Fraiche auf den Teig geben und mit einem Löffel gleichmäßig, aber nicht bis ganz zum Rand, verteilen.
     - Dann die Zwiebeln auf der Creme Fraiche verteilen und anschließend die Speckwürfel darüber streuen.
     - Jetzt das Backblech aus dem vorgeheizten Ofen holen, das Backpapier mit dem Flammkuchen darauflegen und den Flammkuchen für ca. 8-12 Minuten (je nach Ofen) backen, bis der Rand goldbraun ist. Fertig!
-
 ---
-Soul Food
-{: .label .label-purple }
-
-Favorit
-{: .label .label-yellow }

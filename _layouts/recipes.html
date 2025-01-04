@@ -1,33 +1,32 @@
 ---
-layout: default
+layout: minimal
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>{{ page.title }}</h1><h6>
+
+<h6><a href="/">Zurück zur Startseite</a></h6>
 
 {{ content }}
-
-{% if page.source == "" or page.source == nil %}
-    <p>Keine Quelle angegeben ¯\_(ツ)_/¯</p>
-{% elsif page.source contains "https://" %}
-    <p><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
-{% else %}
-    <p>{{ page.source }}</p>
-{% endif %}
-
 
 {% if page.image %}
 <p><img src="{{ page.image }}" alt="{{ page.title }}" style="border: 1px solid #000;"></p>
 {% endif %}
 
-{% if page.servings %}
-<h2>Zutatenliste für {{ page.servings }} Portionen</h2>
+{% if page.source contains "https://" %}
+    <p><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
 {% else %}
-<h2>Zutatenliste</h2>
+    <p>{{ page.source }}</p>
+{% endif %}
+
+{% if page.servings %}
+<h2>Zutaten für {{ page.servings }} Portionen</h2>
+{% else %}
+<h2>Zutaten</h2>
 {% endif %}
 
 <ul>
     {% for ingredient in page.ingredients %}
-        <li>{{ ingredient }}</li>
+        <li>{{ ingredient.amount }}{{ ingredient.unit }} {{ ingredient.name }}</li>
     {% endfor %}
 </ul>
 
