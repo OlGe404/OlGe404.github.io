@@ -1,8 +1,8 @@
-function fetchLocalJson() {
+function fetchJsonRecipes() {
     return fetch('/assets/recipes.json')
         .then((response) => {
             if (!response.ok) {
-                throw new Error(`Failed to fetch JSON from "/assets/recipes.json" file: ${response.status}`);
+                throw new Error('Failed to fetch JSON from "/assets/recipes.json" file:', response.status);
             }
             return response.json();
         });
@@ -10,8 +10,17 @@ function fetchLocalJson() {
 
 async function generateShoppingList() {
     try {
-        const recipes = await fetchLocalJson();
-        const days = parseInt(document.getElementById('days').value); 
+        const recipes = await fetchJsonRecipes();
+        const days = parseInt(document.getElementById('days').value);
+        const infoContainer = document.getElementById('info-message');
+
+        if (recipes.length * 2 < days) {
+            infoContainer.textContent = `Es wird die maximale Anzahl von ${recipes.length} Rezepten angezeigt, weil es nicht genug Rezepte für ${days} Tage gibt.`;
+            infoContainer.style.display = 'block';
+        } else {
+            infoContainer.style.display = 'none';
+        }
+
         const selectedRecipes = getRandomRecipes(recipes, days);
         const shoppingList = new Set();
 
@@ -35,7 +44,7 @@ function getRandomRecipes(recipes, days) {
         const randomIndex = Math.floor(Math.random() * recipeCount);
         const selectedRecipe = recipes[randomIndex];
 
-        // Only add a recipe if its not already part of the randomRecipes list 
+        // Only add a recipe if its not already part of the list 
         if (!randomRecipes.includes(selectedRecipe)) {
             randomRecipes.push(selectedRecipe);
         }
@@ -47,11 +56,10 @@ function getRandomRecipes(recipes, days) {
 function displayShoppingList(selectedRecipes, shoppingList) {
     const listContainer = document.getElementById('shopping-list');
     listContainer.innerHTML = '';
-
-    // Display selected recipes and their ingredients
     const recipeContainer = document.createElement('div');
+
     selectedRecipes.forEach((recipe) => {
-        const recipeTitle = document.createElement('h3');
+        const recipeTitle = document.createElement('h5');
         recipeTitle.textContent = recipe.title;
         recipeContainer.appendChild(recipeTitle);
 
