@@ -26,6 +26,10 @@ def convert_md_to_json(input="content/recipes", output="assets/recipes.json"):
                     parent = post.get("parent")
                     ingredients = post.get("ingredients")
 
+                    # Only add "Hauptspeisen"
+                    if parent != "Hauptspeisen":
+                        continue
+
                     if not title:
                         err = "missing or empty 'title'"
                         failed.append({"file": filename, "reason": err})
@@ -37,9 +41,9 @@ def convert_md_to_json(input="content/recipes", output="assets/recipes.json"):
                         continue
 
                     sanitized_ingredients = sanitize(ingredients)
+
                     recipes.append({
                         "title": title,
-                        "parent": parent,
                         "ingredients": sanitized_ingredients,
                     })
 
