@@ -14,7 +14,7 @@ ingredients:
     - { name: Prise Salz, amount: 1 }
     - { name: Ei, amount: 1 }
     - { name: ===== Für die Füllung ===== }
-    - { name: Eigeln, amount: 1 }
+    - { name: Eigelb, amount: 1 }
     - { name: Zucker, amount: 50, unit: g }
     - { name: Zitronenschalenabrieb, amount: 0.5, unit: TL }
     - { name: Spritzer Zitronensaft, amount: 1 }
