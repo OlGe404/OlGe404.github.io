@@ -15,6 +15,11 @@ search:
   previews: 5
   preview_words_after: 5
 
+callouts:
+  info:
+    title: Info
+    color: blue
+
 exclude:
   - .github
   - .gitignore
