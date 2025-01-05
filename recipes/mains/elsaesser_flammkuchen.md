@@ -5,6 +5,10 @@ parent: Hauptspeisen
 source: https://youtu.be/OawZRbS2IQY?si=JieyJ7hRWyG_EFE9
 image: /assets/imgs/elsaesser_flammkuchen.jpg
 servings: 2
+additional_info: >-
+    Es ist eine Küchenwaage notwendig, um alle Zutaten zu wiegen, damit der Flüssigkeitsgehalt beim Teig stimmt.
+    Ohne genaues arbeiten kann er nicht gut geknetet und dünn ausgerollt werden. Außerdem kann er im Ofen verbrennen und labbrig werden.
+
 ingredients:
     - { name: ===== Für den Teig ===== }
     - { name: Mehl, amount: 155, unit: g }
@@ -18,9 +22,9 @@ ingredients:
     - { name: Zwiebel (groß), amount: 1, unit: ~ }
 
 instructions:
-    - BEACHTEN - Es ist eine Küchenwaage notwendig, um den Teig zu mischen. Damit der Flammkuchen knusprig wird ist es notwendig, den Flüssigkeitsgehalt genau zu bestimmen, weshalb alle Zutaten gewogen werden müssen.
-    - Für den Teig brauchen wir eine große Schüssel. Diese stellen wir auf die Küchenwaage und nullen diese. Dann geben wir das Mehl, Rapsöl, Salz und Ei in die Schüssel.
-    - Anschließend wird mit Wasser aufgefüllt, bis der Teig exakt 255g schwer ist. Dann wird er geknetet bis er nicht mehr klebt und glatt geworden ist. Den Teig in Frischhaltefolie wickeln und zur Seite stellen, denn er muss jetzt mindestens 1h lang ruhen (bis zu 24h im voraus, dann aber im Kühlschrank lagern).
+    - Für den Teig brauchen wir eine mittelgroße Schüssel. Diese stellen wir auf die Küchenwaage und nullen sie. Dann geben wir das Mehl, Rapsöl, Salz und Ei in die Schüssel.
+    - Anschließend wird mit Wasser aufgefüllt, bis der Teig exakt 255g schwer ist. Das variiert jedesmal, weil das Ei nicht immer gleich groß ist. Anschließend wird der Teig vermischt und geknetet, bis er glatt ist und nicht mehr klebt.
+    - Den Teig in Frischhaltefolie wickeln und zur Seite stellen, damit er jetzt mindestens 1h lang ruhen kann (bis zu 24h im voraus, dann aber im Kühlschrank lagern).
     - Jetzt schneiden wir die Zwiebel(n) in möglichst feine Halbringe und geben sie in eine Schüssel und vermischen sie mit einer Prise Salz. Dann stellen wir sie abgedeckt zur Seite, bis der Teig geruht hat.
     - Wenn der Teig geruht hat, heizen wir den Backofen auf 220°C Ober-/Unterhitze vor. Das Blech zum Backen muss auch im Ofen vorheizen.
     - Jetzt geben wir etwas Mehl auf ein Stück Backpapier und rollen den Teig möglichst dünn darauf aus.
