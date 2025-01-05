@@ -24,7 +24,15 @@ layout: minimal
 
 <ul>
     {% for ingredient in page.ingredients %}
-        <li>{{ ingredient.amount }}{{ ingredient.unit }} {{ ingredient.name }}</li>
+        <li>
+            {% assign quoted_units = "Dose, Beutel, Packung" | split: "," %}
+            {% if quoted_units contains ingredient.unit %}
+                <!-- Notice the " " between ingredient.amount and ingredient.unit -->
+                {{ ingredient.amount }} {{ ingredient.unit }} {{ ingredient.name }}
+            {% else %}
+                {{ ingredient.amount }}{{ ingredient.unit }} {{ ingredient.name }}
+            {% endif %}
+        </li>
     {% endfor %}
 </ul>
 
