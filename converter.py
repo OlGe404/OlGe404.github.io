@@ -6,11 +6,11 @@ import json
 import frontmatter
 
 def sanitize(ingredients):
-    # matches ingredient['name'] starting with "=" and remove them from ingredients list
+    # matches ingredient['name'] starting with "=" to remove them from ingredients list
     pattern = re.compile(r"^=+")
     return [ingredient for ingredient in ingredients if not pattern.match(ingredient['name'])]
 
-def get_json_from_md():
+def write_recipes_to_json_file():
     recipes = []
     success = []
     failed = []
@@ -27,9 +27,6 @@ def get_json_from_md():
                         title = fm.get("title")
                         parent = fm.get("parent")
                         ingredients = fm.get("ingredients")
-
-                        if parent != "Hauptspeisen":
-                            continue
 
                         if not title:
                             err = "missing or empty 'title'"
@@ -64,13 +61,13 @@ def get_json_from_md():
         print(f"🚨 Failed to write to 'recipes.json' file: {err}")
 
     if len(success) > 0:
-        print("\n✅ Successfully converted frontmatter to json for:")
+        print("\n✅ Successfully processed:")
         for file in success:
             print(f" - {file}")
     
     if len(failed) > 0:
-        print("\n❌ Failed conversion from frontmatter to json for:")
+        print("\n❌ Failed processing for:")
         for key in failed:
             print(f" - {key['file']} ({key['reason']})")
 
-get_json_from_md()
+write_recipes_to_json_file()

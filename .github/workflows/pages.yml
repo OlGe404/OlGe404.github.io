@@ -33,8 +33,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
-      # - name: Generate recipes.json
-      #   run: ./python3-venv.sh && source .venv/bin/activate && ./converter.py
+      - name: Generate recipes.json
+        run: ./python3-venv.sh && source .venv/bin/activate && ./converter.py
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
