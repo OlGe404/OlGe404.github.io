@@ -37,9 +37,9 @@ instructions:
     - Das Hähnchen würfeln und in die Marinade geben. Alles gut vermischen.
     - Eine große Pfanne auf hoher Hitze (7/9) mit dem Rapsöl darin vorheizen.
     - Die Speisestärke in die Schüssel mit dem Hähnchen und der Marinade geben und alles gut vermischen, damit die Marinade am Fleisch bleibt.
-    - Das marinierte Hähnchen in die Pfanne geben und anbraten, sodass die Stücke auf jeder Seite Farbe bekommen. Darauf achten, dass die Stücke nicht aneinander kleben bleiben.
+    - Das marinierte Hähnchen in die Pfanne geben und anbraten, sodass die Stücke auf jeder Seite Farbe bekommen. Darauf achten, dass die Stücke nicht aneinander kleben.
     - Wenn das Hähnchen von allen Seiten Farbe hat, wird es aus der Pfanne genommen und zurück in die Schüssel gegeben. Die Pfanne auf mittlere Hitze (5/9) herunterdrehen.
-    - Jetzt die Paprika würfeln, die Lauchzwiebeln in Scheiben schneiden (ein wenig Lauchzwiebel zum Garnieren zurückhalten) und in der Pfanne anbraten. Wenn nötig etwas Rapsöl hinzugeben.
-    - Nach ca. 5 Min die Soße hinzugeben und die Hitze wieder hochdrehen (7/9).
-    - Wenn die Soße andickt das Hähnchen und die Ananasstücke dazugeben und für 2 Min kochen. Anschließend mit dem Reis auf einem Teller geben und mit der Lauchzwiebel und Sesam garnieren. Fertig!
+    - Jetzt die Lauchzwiebeln in Scheiben schneiden (ein wenig Lauchzwiebel zum Garnieren zurückhalten) und in der Pfanne anbraten. Wenn nötig etwas Rapsöl hinzugeben.
+    - Nach ca. 5 Min die Soße hinzugeben und die Hitze wieder hochdrehen (7/9), damit die Soße andickt.
+    - Wenn die Soße kurz davor ist, die gewünschte Konsistenz zu erreichen, das Hähnchen und die Ananasstücke dazugeben und für 2 Min mitkochen. Anschließend mit dem Reis auf einen Teller geben und mit der restlichen Lauchzwiebel und Sesam garnieren. Fertig!
 ---
