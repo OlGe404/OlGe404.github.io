@@ -16,6 +16,11 @@ layout: minimal
     <p>{{ page.source }}</p>
 {% endif %}
 
+{% if page.additional_info %}
+<h2></h2>
+<p id="info-callout" class="info" style="display: block">{{ page.additional_info }}</p>
+{% endif %}
+
 {% if page.servings %}
 <h2>Zutaten für {{ page.servings }} Portionen</h2>
 {% else %}

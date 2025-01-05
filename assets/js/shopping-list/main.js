@@ -10,7 +10,7 @@ async function main() {
         const filtered_recipes = recipes.filter(recipe => recipe.parent === "Hauptspeisen");
 
         const days = parseInt(document.getElementById('days').value);
-        const callout = document.getElementById('info-callout');
+        const callout = document.getElementById('callout');
 
         if (filtered_recipes.length * 2 < days) {
             callout.textContent = `Es wird die maximale Anzahl von ${filtered_recipes.length} Rezepten angezeigt, weil es nicht genug Rezepte für ${days} Tage im Rezeptbuch gibt.`;

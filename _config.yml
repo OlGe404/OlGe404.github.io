@@ -16,7 +16,11 @@ search:
 callouts:
   info:
     title: Info
-    color: blue
+    color: green
+
+  warning:
+    title: Achtung
+    color: yellow
 
 exclude:
   - .github

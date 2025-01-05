@@ -5,10 +5,7 @@ parent: Hauptspeisen
 source: https://youtu.be/OawZRbS2IQY?si=JieyJ7hRWyG_EFE9
 image: /assets/imgs/elsaesser_flammkuchen.jpg
 servings: 2
-additional_info: >-
-    Es ist eine Küchenwaage notwendig, um alle Zutaten zu wiegen, damit der Flüssigkeitsgehalt beim Teig stimmt.
-    Ohne genaues arbeiten kann er nicht gut geknetet und dünn ausgerollt werden. Außerdem kann er im Ofen verbrennen und labbrig werden.
-
+additional_info: Es ist notwendig eine Küchenwaage zu benutzen, damit der Flüssigkeitsgehalt beim Teig stimmt.
 ingredients:
     - { name: ===== Für den Teig ===== }
     - { name: Mehl, amount: 155, unit: g }
