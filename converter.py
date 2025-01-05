@@ -5,69 +5,72 @@ import re
 import json
 import frontmatter
 
-def sanitize(lines):
-    # matches lines starting with "=" to remove them from ingredients list
+def sanitize(ingredients):
+    # matches ingredient['name'] starting with "=" and remove them from ingredients list
     pattern = re.compile(r"^=+")
-    return [line for line in lines if not pattern.match(line)]
+    return [ingredient for ingredient in ingredients if not pattern.match(ingredient['name'])]
 
-def convert_md_to_json(input="content/recipes", output="assets/recipes.json"):
+def get_json_from_md():
     recipes = []
     success = []
     failed = []
 
-    for filename in os.listdir(input):
-        if filename.endswith(".md") and filename != "_template.md":
-            filepath = os.path.join(input, filename)
+    # Walk through all subdirectories of "recipes" to find ".md" files
+    for root, _, files in os.walk("recipes"):
+        for filename in files:
+            if filename.endswith(".md") and filename != "_template.md":
+                # Open each file, read the frontmatter in it and add it to recipes list
+                filepath = os.path.join(root, filename)
+                try:
+                    with open(filepath, "r", encoding="utf-8") as file:
+                        fm = frontmatter.load(file)
+                        title = fm.get("title")
+                        parent = fm.get("parent")
+                        ingredients = fm.get("ingredients")
 
-            try:
-                with open(filepath, 'r', encoding='utf-8') as file:
-                    post = frontmatter.load(file)
-                    title = post.get("title")
-                    parent = post.get("parent")
-                    ingredients = post.get("ingredients")
+                        if parent != "Hauptspeisen":
+                            continue
 
-                    # Only add "Hauptspeisen"
-                    if parent != "Hauptspeisen":
-                        continue
+                        if not title:
+                            err = "missing or empty 'title'"
+                            failed.append({"file": filename, "reason": err})
+                            continue
 
-                    if not title:
-                        err = "missing or empty 'title'"
-                        failed.append({"file": filename, "reason": err})
-                        continue
+                        if not ingredients or len(ingredients) == 0:
+                            err = "missing or empty 'ingredients' list"
+                            failed.append({"file": filename, "reason": err})
+                            continue
 
-                    if not ingredients or len(ingredients) == 0:
-                        err = "missing or empty 'ingredients' list"
-                        failed.append({"file": filename, "reason": err})
-                        continue
+                        sanitized_ingredients = sanitize(ingredients)
 
-                    sanitized_ingredients = sanitize(ingredients)
+                        recipe_data = {
+                            "title": title,
+                            "parent": parent,
+                            "ingredients": sanitized_ingredients,
+                        }
 
-                    recipes.append({
-                        "title": title,
-                        "ingredients": sanitized_ingredients,
-                    })
+                        recipes.append(recipe_data)
+                        success.append(filename)
 
-                    success.append(filename)
-
-            except Exception as err:
-                failed.append({"file": filename, "reason": err})
-                continue
+                except Exception as err:
+                    failed.append({"file": filename, "reason": err})
+                    continue
 
     try:
-        with open(output, 'w', encoding='utf-8') as json_file:
-            json.dump(recipes, json_file, ensure_ascii=False, indent=2)
-    
+        with open("recipes.json", "w", encoding="utf-8") as file:
+            json.dump(recipes, file, indent=2, ensure_ascii=False)
+
     except Exception as err:
-        print(f"🚨 Failed to write converted recipes to '{output}': {err}")
+        print(f"🚨 Failed to write to 'recipes.json' file: {err}")
 
     if len(success) > 0:
-        print("\n✅ Successfully converted md-files to json:")
+        print("\n✅ Successfully converted frontmatter to json for:")
         for file in success:
             print(f" - {file}")
     
     if len(failed) > 0:
-        print("\n❌ Failed conversion for:")
+        print("\n❌ Failed conversion from frontmatter to json for:")
         for key in failed:
             print(f" - {key['file']} ({key['reason']})")
 
-convert_md_to_json()
+get_json_from_md()

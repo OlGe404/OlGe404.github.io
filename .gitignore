@@ -2,4 +2,4 @@ to-dos.md
 .jekyll-cache
 _site
 .venv
-assets/recipes.json
+recipes.json
