@@ -6,10 +6,10 @@ import { displayShoppingList } from "./displayShoppingList.js";
 
 async function main() {
     try {
-        const filtered_recipes = await fetchJsonRecipes();
-        // const filtered_recipes = all_recipes.filter(recipe => recipe.parent === "Hauptspeisen");
+        const recipes = await fetchJsonRecipes();
+        const filtered_recipes = recipes.filter(recipe => recipe.parent === "Hauptspeisen");
 
-            const days = parseInt(document.getElementById('days').value);
+        const days = parseInt(document.getElementById('days').value);
         const callout = document.getElementById('info-callout');
 
         if (filtered_recipes.length * 2 < days) {

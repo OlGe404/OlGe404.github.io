@@ -12,8 +12,15 @@ export function displayShoppingList(shoppingList) {
             const ingredient = sortedShoppingList[key];
             const li = document.createElement("li");
 
-            const text = `${ingredient.amount ? ingredient.amount : ""} ${ingredient.unit ? ingredient.unit : ""} ${ingredient.name}`;
-            li.textContent = text;
+            if(ingredient.amount) {
+                if(["Dose", "Zweig", "Zweige", "Zehe", "Zehen"].includes(ingredient.unit)) {
+                    // Note the " " between ingredient.amount and ingredient.unit statements
+                    li.textContent = `${ingredient.amount ? ingredient.amount : ""} ${ingredient.unit ? ingredient.unit : ""} ${ingredient.name}`;
+    
+                } else {
+                    li.textContent = `${ingredient.amount ? ingredient.amount : ""}${ingredient.unit ? ingredient.unit : ""} ${ingredient.name}`;
+                }
+            }
 
             shoppingListUl.appendChild(li);
         }
