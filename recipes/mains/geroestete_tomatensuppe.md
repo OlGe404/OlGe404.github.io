@@ -9,7 +9,7 @@ ingredients:
     - { name: Datteltomaten, amount: 1, unit: kg }
     - { name: Knoblauch, amount: 1, unit: Knolle }
     - { name: Butter, amount: 100, unit: g }
-    - { name: Zwiebeln (groß), amount: 2, unit: ~ }
+    - { name: Zwiebel (groß), amount: 2, unit: ~ }
     - { name: Oregano, amount: 4, unit: Zweige }
     - { name: Thymian, amount: 4, unit: Zweige }
     - { name: Basilikum, amount: 2, unit: Zweige }

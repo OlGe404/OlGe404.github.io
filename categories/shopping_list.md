@@ -9,18 +9,26 @@ Mit diesem kleinen Helfer kann eine einfache Einkaufsliste für eine gewünschte
 
 Die Einkaufsliste wird aus den Zutaten von Rezepten erzeugt. Die Auswahl der Rezepte ist zufällig und es werden nur Rezepte aus der Kategorie `Hauptspeisen` berücksichtigt.
 
-Pro Tag werden die Zutaten für zwei Rezepte zur Einkaufsliste hinzugefügt (Mittag- und Abendessen). Bei `7` Tagen würde die Einkaufsliste aus `14` Rezepten bestehen.
+Pro Tag werden die Zutaten für zwei Rezepte zur Einkaufsliste hinzugefügt (Mittag- und Abendessen). Die in den Rezepten angegebene Anzahl der Portionen wird nicht berücksichtigt und kein Rezept wird doppelt hinzugefügt. Bei `7` Tagen würde die Einkaufsliste aus `14` Rezepten bestehen.
 
-Da die Anzahl der Rezepte begrenzt ist kann es vorkommen, dass weniger Rezepte als `Anzahl der Tage * 2` existieren. Sollte es dazu kommen, wird die Einkaufsliste auf die Anzahl verfügbarer Rezepte begrenzt und eine Info eingeblendet. Die angegebene Anzahl der Portionen pro Rezept wird nicht berücksichtigt - es wird zur Einkaufsliste hinzugefügt, was an Zutaten in den Rezepten aufgelistet ist, und kein Rezept wird doppelt aufgeführt.
+Da die Anzahl der Rezepte begrenzt ist kann es vorkommen, dass weniger Rezepte als `Anzahl der Tage * 2` existieren. Sollte es dazu kommen, wird die Einkaufsliste auf die Anzahl verfügbarer Rezepte begrenzt und eine Info eingeblendet.
 
 <label for="days">Anzahl der Tage:</label>
 <input type="number" id="days" value="5" min="1" />
 
-<button onclick="generateShoppingList()">Einkaufsliste generieren</button>{: .btn .btn-purple }
+<button id="generate-shopping-list">Einkaufsliste generieren</button>{: .btn .btn-purple }
 
 {: .info }
-<p id="info-message" style="display: none"></p>
+<p id="info-callout" style="display: none"></p>
 
-<ul id="shopping-list"></ul>
+<div>
+    <h3 id="recipes-titles-heading" style="display: none">Ausgewählte Rezepte</h3>
+    <ul id="recipes-titles-ul"></ul>
+</div>
 
-<script src="/js/shopping_list.js"></script>
+<div>
+    <h3 id="shopping-list-heading" style="display: none">Einkaufsliste</h3>
+    <ul id="shopping-list-ul"></ul>
+</div>
+
+<script type="module" src="/assets/js/shopping-list/main.js"></script>
