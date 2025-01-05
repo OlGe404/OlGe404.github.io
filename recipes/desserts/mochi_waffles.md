@@ -5,6 +5,7 @@ parent: Nachtisch
 source: https://www.joshuaweissman.com/post/perfect-homemade-waffles
 image: /assets/imgs/mochi_waffles.jpg
 servings: ~
+additional_info: Bananas Foster als Soße und Sahne passen dazu ausgezeichnet!
 ingredients:
     - { name: Buttermilch, amount: 180, unit: ml }
     - { name: Ei, amount: 1, unit: ~ }
