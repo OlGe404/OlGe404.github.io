@@ -10,7 +10,7 @@ ingredients:
     - { name: Hähnchenbrustfilet, amount: 500, unit: g }
     - { name: Reis, amount: 200, unit: g }
     - { name: Ananasstücke (ungesüßt), amount: 1, unit: Dose }
-    - { name: Frühlingszwiebel, amount: 2, unit: Stück }
+    - { name: Frühlingszwiebeln, amount: 2, unit: ~ }
     - { name: Rapsöl, amount: 4, unit: EL }
     - { name: Sesam, amount: 1, unit: EL }
     - { name: ===== Für die Marinade ===== }
