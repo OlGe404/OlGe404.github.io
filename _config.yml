@@ -16,7 +16,7 @@ search:
 callouts:
   info:
     title: Info
-    color: green
+    color: blue
 
   warning:
     title: Achtung

@@ -8,7 +8,7 @@ servings: ~
 additional_info: >-
     Wer keine Bananen hat, kann das auch mit Orangen machen.
     Wer keinen Rum benutzen möchte, kann Weißwein oder Traubensaft benutzen.
-    Es sollte warm serviert werden, damit es am leckersten ist und die Butter die Mischung nicht trübt, wenn es abkühlt.
+    Es sollte warm serviert werden, damit es am leckersten ist und die Butter die Mischung nicht trübt, wenn es abgekühlt ist.
 
 ingredients:
     - { name: Brauner Zucker, amount: 160, unit: g }
