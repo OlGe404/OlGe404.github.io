@@ -6,15 +6,15 @@ source: Inspiriert durch Mikael ᕙ(⇀‸↼‶)ᕗ
 image: /assets/imgs/nudeln_mit_ziegenkaese.jpg
 servings: 2
 ingredients:
-    - { name: Nudeln (z.B. Fussili, Penne), amount: 200, unit: g }
+    - { name: Nudeln (z.B. Fussili oder Penne), amount: 200, unit: g }
     - { name: Ziegenkäse (oder Feta), amount: 150, unit: g }
     - { name: Knoblauch, amount: 4, unit: Zehen }
     - { name: Kirchtomaten, amount: 200, unit: g }
     - { name: Brauner Zucker, amount: 1, unit: TL }
     - { name: Kräuter der Province, amount: 1, unit: EL }
-    - { name: Olivenöl }
-    - { name: Prise Salz, amount: 1 }
-    - { name: Prise Pfeffer, amount: 1 }
+    - { name: Olivenöl, amount: ~, unit: ~ }
+    - { name: Prise Salz, amount: 1, unit: ~ }
+    - { name: Prise Pfeffer, amount: 1, unit: ~ }
 
 instructions:
     - Die Knoblauchzehen schälen und kleinhacken (oder durch eine Presse geben).

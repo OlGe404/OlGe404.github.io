@@ -4,6 +4,7 @@ title: Brownies
 parent: Nachtisch
 source: https://www.youtube.com/watch?v=Wo8KqDyRexU
 image: /assets/imgs/brownies.jpg
+servings: ~
 ingredients:
     - { name: Dunkle Schokolade, amount: 340, unit: g }
     - { name: Butter, amount: 240, unit: g }

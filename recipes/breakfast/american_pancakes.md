@@ -10,10 +10,10 @@ ingredients:
     - { name: Zucker, amount: 1.5, unit: EL }
     - { name: Backpulver, amount: 2, unit: TL }
     - { name: Natron, amount: 0.5, unit: TL }
-    - { name: Prise Salz, amount: 1 }
+    - { name: Prise Salz, amount: 1, unit: ~ }
     - { name: Vanilleextrakt, amount: 0.5, unit: TL }
     - { name: Buttermilch, amount: 450, unit: ml }
-    - { name: Eier, amount: 2 }
+    - { name: Eier, amount: 2, unit: ~ }
     - { name: Butter, amount: 20, unit: g }
 
 instructions:

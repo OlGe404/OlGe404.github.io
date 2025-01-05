@@ -10,15 +10,15 @@ ingredients:
     - { name: Spinat, amount: 100, unit: g }
     - { name: Sahne, amount: 100, unit: g }
     - { name: Gehobelte Mandeln, amount: 50, unit: g }
-    - { name: Schalotten, amount: 2 }
+    - { name: Schalotten, amount: 2, unit: ~ }
     - { name: Knoblauch, amount: 2, unit: Zehen }
     - { name: Mittelscharfer Senf, amount: 2, unit: EL }
     - { name: Zitronensaft, amount: 2, unit: EL }
     - { name: Butter, amount: 2, unit: EL }
     - { name: Brauner Zucker, amount: 1, unit: TL }
-    - { name: Salz  }
-    - { name: Pfeffer }
-    - { name: Olivenöl }
+    - { name: Salz, amount: ~, unit: ~ }
+    - { name: Pfeffer, amount: ~, unit: ~ }
+    - { name: Olivenöl, amount: ~, unit: ~ }
     - { name: Crème Fraîche, amount: 1, unit: TL }
 
 instructions:

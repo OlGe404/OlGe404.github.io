@@ -8,11 +8,11 @@ servings: 2
 ingredients:
     - { name: Bacon-Streifen, amount: 125, unit: g }
     - { name: Parmigiano Reggiano, amount: 50, unit: g }
-    - { name: Ei, amount: 1 }
-    - { name: Eigelb, amount: 1 }
+    - { name: Ei, amount: 1, unit: ~ }
+    - { name: Eigelb, amount: 1, unit: ~ }
     - { name: Spaghetti, amount: 200, unit: g }
-    - { name: Salz }
-    - { name: Pfeffer }
+    - { name: Salz, amount: ~, unit: ~ }
+    - { name: Pfeffer, amount: ~, unit: ~ }
 
 instructions:
     - Den Käse reiben und mit einem ganzen Ei und einem Eigelb in einer Schüssel vermischen.

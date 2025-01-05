@@ -13,8 +13,8 @@ ingredients:
     - { name: Olivenöl, amount: 1, unit: EL }
     - { name: Gehobelte Mandeln, amount: 50, unit: g }
     - { name: Knoblauch, amount: 2, unit: Zehen }
-    - { name: Salz }
-    - { name: Pfeffer }
+    - { name: Salz, amount: ~, unit: ~ }
+    - { name: Pfeffer, amount: ~, unit: ~ }
 
 instructions:
     - Wenn TK Rosenkohl benutzt wird, diesen vorher (z.B. in der Mikrowelle) auftauen.
