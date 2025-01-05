@@ -13,7 +13,7 @@ export function displayShoppingList(shoppingList) {
             const li = document.createElement("li");
 
             if(ingredient.amount) {
-                if(["Dose", "Zweig", "Zweige", "Zehe", "Zehen"].includes(ingredient.unit)) {
+                if(["Dose", "Knolle", "Knollen", "Prise", "Prisen", "Zehe", "Zehen", "Zweig", "Zweige"].includes(ingredient.unit)) {
                     // Note the " " between ingredient.amount and ingredient.unit statements
                     li.textContent = `${ingredient.amount ? ingredient.amount : ""} ${ingredient.unit ? ingredient.unit : ""} ${ingredient.name}`;
     

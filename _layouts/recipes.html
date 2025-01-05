@@ -25,7 +25,7 @@ layout: minimal
 <ul>
     {% for ingredient in page.ingredients %}
         <li>
-            {% assign quoted_units = "Dose, Beutel, Packung" | split: "," %}
+            {% assign quoted_units = "Dose, Knolle, Knollen, Prise, Prisen, Zehe, Zehen, Zweig, Zweige" | split: "," %}
             {% if quoted_units contains ingredient.unit %}
                 <!-- Notice the " " between ingredient.amount and ingredient.unit -->
                 {{ ingredient.amount }} {{ ingredient.unit }} {{ ingredient.name }}
