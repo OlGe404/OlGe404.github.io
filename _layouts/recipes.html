@@ -15,7 +15,7 @@ layout: minimal
 {% endif %}
 
 {% if page.image %}
-<img src="{{ page.image }}" alt="" style="border: 1px solid #000;" />
+<img src="{{ page.image }}" alt="" width="100%" style="border: 1px solid #000;" />
 {% endif %}
 
 {% if page.source contains "https://" %}
@@ -23,6 +23,8 @@ layout: minimal
 {% else %}
     <p>{{ page.source }}</p>
 {% endif %}
+
+{% include share_buttons.html %}
 
 {% if page.info %}
 <h2></h2>
