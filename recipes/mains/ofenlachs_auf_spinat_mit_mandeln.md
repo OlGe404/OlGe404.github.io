@@ -5,12 +5,17 @@ parent: Hauptspeisen
 source: https://emmikochteinfach.de/einfacher-ofen-lachs-auf-spinat/
 image: /assets/imgs/ofenlachs_auf_spinat_mit_mandeln.jpg
 servings: 2
+info: >-
+    Anstatt TK kann auch frischer Spinat und Lachs verwendet werden.
+    Frischer Spinat sollte in der Pfanne etwas einkochen, bevor es in die Auflaufform gegeben wird.
+    Bei frischem Lachs verkürzt sich die Zeit im Ofen um ca. 5 Minuten.
+
 labels:
     - soul food
 
 ingredients:
-    - { name: Lachs, amount: 250, unit: g }
-    - { name: Spinat, amount: 100, unit: g }
+    - { name: TK Lachs, amount: 250, unit: g }
+    - { name: TK Spinat, amount: 100, unit: g }
     - { name: Sahne, amount: 100, unit: g }
     - { name: Gehobelte Mandeln, amount: 50, unit: g }
     - { name: Schalotten, amount: 2, unit: ~ }
