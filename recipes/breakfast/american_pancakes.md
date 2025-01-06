@@ -5,6 +5,11 @@ parent: Frühstück
 source: https://www.youtube.com/watch?v=PuSS-ILKO7o
 image: /assets/imgs/american_pancakes.jpg
 servings: 2
+labels:
+    - amerikanisch
+    - favorit
+    - brunch
+
 ingredients:
     - { name: Mehl, amount: 240, unit: g }
     - { name: Zucker, amount: 1.5, unit: EL }

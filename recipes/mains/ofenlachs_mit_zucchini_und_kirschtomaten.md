@@ -5,6 +5,10 @@ parent: Hauptspeisen
 source: ~
 image: /assets/imgs/ofenlachs_mit_zucchini_und_kirschtomaten.jpg
 servings: 2
+labels:
+    - schnell und einfach
+    - favorit
+
 ingredients:
     - { name: TK Lachs, amount: 250, unit: g }
     - { name: Kirschtomaten, amount: 200, unit: g }

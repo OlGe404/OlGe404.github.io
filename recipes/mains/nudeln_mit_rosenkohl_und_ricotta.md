@@ -5,6 +5,9 @@ parent: Hauptspeisen
 source: https://emmikochteinfach.de/schnelle-pasta-mit-rosenkohl-mandeln-ricotta/
 image: /assets/imgs/nudeln_mit_rosenkohl_und_ricotta.jpg
 servings: 2
+labels:
+    - schnell und einfach
+
 ingredients:
     - { name: Tagliatelle, amount: 200, unit: g }
     - { name: Rosenkohl, amount: 200, unit: g }

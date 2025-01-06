@@ -5,6 +5,9 @@ parent: Hauptspeisen
 source: https://emmikochteinfach.de/einfacher-ofen-lachs-auf-spinat/
 image: /assets/imgs/ofenlachs_auf_spinat_mit_mandeln.jpg
 servings: 2
+labels:
+    - soul food
+
 ingredients:
     - { name: Lachs, amount: 250, unit: g }
     - { name: Spinat, amount: 100, unit: g }

@@ -5,6 +5,7 @@ parent: Hauptspeisen
 source: https://www.tiktok.com/@brot.mit.ei/video/7145844841212022022
 image: /assets/imgs/geroestete_tomatensuppe.jpg
 servings: 4
+labels: ~
 ingredients:
     - { name: Datteltomaten, amount: 1, unit: kg }
     - { name: Knoblauch, amount: 1, unit: Knolle }

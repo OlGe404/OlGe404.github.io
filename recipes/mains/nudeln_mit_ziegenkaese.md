@@ -5,6 +5,10 @@ parent: Hauptspeisen
 source: Inspiriert durch Mikael ᕙ(⇀‸↼‶)ᕗ
 image: /assets/imgs/nudeln_mit_ziegenkaese.jpg
 servings: 2
+labels:
+    - schnell und einfach
+    - favorit
+
 ingredients:
     - { name: Nudeln (z.B. Fussili oder Penne), amount: 200, unit: g }
     - { name: Ziegenkäse (oder Feta), amount: 150, unit: g }

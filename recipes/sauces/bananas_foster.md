@@ -5,6 +5,10 @@ parent: Soßen
 source: https://www.joshuaweissman.com/post/perfect-homemade-waffles
 image: /assets/imgs/bananas_foster.jpg
 servings: ~
+labels:
+    - schnell und einfach
+    - favorit
+
 additional_info: >-
     Wer keine Bananen hat, kann das auch mit Orangen machen.
     Wer keinen Rum benutzen möchte, kann Weißwein oder Traubensaft benutzen.

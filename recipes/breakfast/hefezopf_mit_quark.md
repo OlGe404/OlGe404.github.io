@@ -5,6 +5,9 @@ parent: Frühstück
 source: https://www.backenmachtgluecklich.de/rezepte/hefezopf-mit-quark-fuellung.html
 image: /assets/imgs/hefezopf_mit_quark_fuellung.jpg
 servings: ~
+labels:
+    - neujahr
+
 ingredients:
     - { name: ===== Für den Teig ===== }
     - { name: Hefe, amount: 20, unit: g }

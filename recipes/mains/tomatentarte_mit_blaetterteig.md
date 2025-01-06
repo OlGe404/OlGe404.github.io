@@ -5,6 +5,7 @@ parent: Hauptspeisen
 source: ~
 image: /assets/imgs/tomatentarte_mit_blaetterteig.jpg
 servings: 2
+labels: ~
 ingredients:
     - { name: Blätterteig, amount: 275, unit: g }
     - { name: Gratinkäse, amount: 250, unit: g }

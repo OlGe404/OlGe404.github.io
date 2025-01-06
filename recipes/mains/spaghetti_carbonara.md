@@ -5,6 +5,11 @@ parent: Hauptspeisen
 source: https://www.youtube.com/watch?v=ZCSowIQgHPI
 image: /assets/imgs/spaghetti_carbonara.jpg
 servings: 2
+labels:
+    - schnell und einfach
+    - soul food
+    - favorit
+
 ingredients:
     - { name: Bacon-Streifen, amount: 125, unit: g }
     - { name: Parmigiano Reggiano, amount: 50, unit: g }

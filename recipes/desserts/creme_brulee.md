@@ -5,6 +5,10 @@ parent: Nachtisch
 source: https://www.youtube.com/watch?v=2SVnonhKEEY
 image: /assets/imgs/creme_brulee.jpg
 servings: 4
+labels:
+    - silvester
+    - party
+
 ingredients:
     - { name: Sahne, amount: 500, unit: g }
     - { name: Eigelb, amount: 150, unit: g }

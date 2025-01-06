@@ -6,6 +6,14 @@ layout: minimal
 
 {{ content }}
 
+{% if page.labels %}
+    {% assign classes = "label-blue,label-green,label-purple,label-yellow,label-red" | split: "," %}
+    {% for label in page.labels %}
+        {% assign class = classes | sample %}
+        <p class="label {{ class }}">{{ label }}</p>
+    {% endfor %}
+{% endif %}
+
 {% if page.image %}
 <img src="{{ page.image }}" alt="" style="border: 1px solid #000;" />
 {% endif %}

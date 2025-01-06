@@ -5,6 +5,10 @@ parent: Hauptspeisen
 source: https://emmikochteinfach.de/haehnchen-suess-sauer-rezept/
 image: /assets/imgs/haehnchen_sueß_sauer.jpg
 servings: 2
+labels:
+    - asiatisch
+    - favorit
+
 ingredients:
     - { name: ===== Hauptzutaten ===== }
     - { name: Hähnchenbrustfilet, amount: 500, unit: g }
