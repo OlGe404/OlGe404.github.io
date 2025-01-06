@@ -19,9 +19,7 @@ layout: minimal
 {% endif %}
 
 {% if page.source contains "https://" %}
-    <p><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
-{% else %}
-    <p>{{ page.source }}</p>
+<p><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
 {% endif %}
 
 {% include share_buttons.html %}
