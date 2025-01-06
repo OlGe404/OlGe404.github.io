@@ -29,8 +29,8 @@ instructions:
     - Nun schneiden wir die Zwiebel(n) in möglichst feine Halbringe und geben sie in eine Schüssel. Dann vermischen wir sie mit einer Prise Salz und stellen sie abgedeckt zur Seite, bis der Teig geruht hat.
     - Wenn der Teig geruht hat, heizen wir den Backofen auf 220°C Ober-/Unterhitze vor. Das Blech zum Backen muss im Ofen vorheizen.
     - Jetzt geben wir etwas Mehl auf ein Stück Backpapier und rollen den Teig möglichst dünn darauf aus.
-    - Dann geben wir auf den Rand des Teiges rundherum etwas Rapsöl und verstreichen es mit einem Backpinsel gleichmäßig auf dem Rand des Teiges.
+    - Dann geben wir auf den Rand des Teiges rundherum etwas Rapsöl und verstreichen es mit einem Backpinsel gleichmäßig auf dem Rand. Die Ränder sollten ca. 1cm breit sein.
     - Nun die Crème Fraîche auf den Teig geben und mit einem Löffel gleichmäßig verteilen. Die mit Öl bepinselten Ränder frei lassen.
     - Dann die Zwiebeln auf der Creme Fraiche verteilen und anschließend die Speckwürfel darüber streuen.
-    - Jetzt das Backblech aus dem vorgeheizten Ofen holen, das Backpapier mit dem Flammkuchen darauflegen und den Flammkuchen für ca. 8-12 Minuten (je nach Ofen) backen, bis der Rand goldbraun ist und der Speck farbe bekommen hat. Fertig!
+    - Das Backblech aus dem Ofen holen, wenn er auf 220°C vorgeheizt hat, das Backpapier mit dem Flammkuchen darauflegen und den Flammkuchen für 8-12 Minuten backen, bis der Rand goldbraun ist und der Speck farbe bekommen hat. Fertig!
 ---
