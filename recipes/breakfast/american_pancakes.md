@@ -10,7 +10,7 @@ labels:
     - favorit
     - brunch
 
-additional_info: >-
+info: >-
     Die Empfehlung ist der Klassiker mit Ahornsirup als Topping,
     aber mit Sahne, Mascarpone, Erdbeermarmelade oder Beeren ist es auch sehr lecker.
 

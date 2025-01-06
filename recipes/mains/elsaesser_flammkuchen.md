@@ -5,7 +5,7 @@ parent: Hauptspeisen
 source: https://youtu.be/OawZRbS2IQY?si=JieyJ7hRWyG_EFE9
 image: /assets/imgs/elsaesser_flammkuchen.jpg
 servings: 2
-additional_info: Es ist notwendig eine Küchenwaage zu benutzen, damit der Flüssigkeitsgehalt beim Teig stimmt.
+info: Es ist notwendig eine Küchenwaage zu benutzen, damit der Flüssigkeitsgehalt beim Teig stimmt.
 labels:
     - favorit
 

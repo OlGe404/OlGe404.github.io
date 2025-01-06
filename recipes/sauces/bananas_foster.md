@@ -9,7 +9,7 @@ labels:
     - schnell und einfach
     - favorit
 
-additional_info: >-
+info: >-
     Wer keine Bananen hat, kann das auch mit Orangen machen.
     Wer keinen Rum benutzen möchte, kann Weißwein oder Traubensaft benutzen.
     Es sollte warm serviert werden, damit es am leckersten ist und die Butter die Mischung nicht trübt, wenn es abgekühlt ist.

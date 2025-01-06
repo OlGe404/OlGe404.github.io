@@ -5,7 +5,7 @@ parent: Nachtisch
 source: https://www.joshuaweissman.com/post/perfect-homemade-waffles
 image: /assets/imgs/mochi_waffles.jpg
 servings: ~
-additional_info: Bananas Foster als Soße und Schlagsahne passen dazu ausgezeichnet!
+info: Bananas Foster als Soße und Schlagsahne passen dazu ausgezeichnet!
 labels:
     - favorit
     - schnell und einfach
