@@ -5,13 +5,11 @@ nav_order: 0
 has_children: false
 ---
 # Einkaufsliste (~˘▾˘)~
-Mit diesem kleinen Helfer kann eine einfache Einkaufsliste für eine gewünschte Anzahl an Tagen aus den Rezepten erstellt werden.
+Mit diesem kleinen Helfer kann eine einfache Einkaufsliste für eine gewünschte Anzahl an Tagen erstellt werden.
 
-Die Einkaufsliste wird aus den Zutaten von Rezepten erzeugt. Die Auswahl der Rezepte ist zufällig und es werden nur Rezepte aus der Kategorie `Hauptspeisen` berücksichtigt.
+Die Einkaufsliste wird aus den Zutaten von Rezepten aus der Kategorie `Hauptspeisen` erzeugt. Die Auswahl der Rezepte ist zufällig.
 
-Pro Tag werden die Zutaten für zwei Rezepte zur Einkaufsliste hinzugefügt (Mittag- und Abendessen). Die in den Rezepten angegebene Anzahl der Portionen wird nicht berücksichtigt und kein Rezept wird doppelt hinzugefügt. Bei `7` Tagen würde die Einkaufsliste aus `14` Rezepten bestehen.
-
-Da die Anzahl der Rezepte begrenzt ist kann es vorkommen, dass weniger Rezepte als `Anzahl der Tage * 2` existieren. Sollte es dazu kommen, wird die Einkaufsliste auf die Anzahl verfügbarer Rezepte begrenzt und eine Meldung eingeblendet.
+Pro Tag werden die Zutaten für zwei Rezepte zur Einkaufsliste hinzugefügt (Mittag- und Abendessen). Die in den Rezepten angegebene Anzahl der Portionen wird nicht berücksichtigt und kein Rezept wird doppelt hinzugefügt.
 
 <label for="days">Anzahl der Tage:</label>
 <input type="number" id="days" value="5" min="1" />
