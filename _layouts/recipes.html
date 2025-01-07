@@ -2,9 +2,7 @@
 layout: minimal
 ---
 
-<h1>{{ page.title }}</h1><h6>
-
-{{ content }}
+<h1>{{ page.title }}</h1>
 
 {% if page.labels %}
     {% assign classes = "label-blue,label-green,label-purple,label-yellow,label-red" | split: "," %}
@@ -16,13 +14,16 @@ layout: minimal
 
 {% if page.image %}
 <img src="{{ page.image }}" alt="" width="100%" style="border: 1px solid #000;" />
+{% else %}
+<img src="/assets/imgs/placeholder.jpg" alt="" width="100%" style="border: 1px solid #000;" />
 {% endif %}
 
 {% if page.source contains "https://" %}
 <p><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
 {% endif %}
 
-{% include share_buttons.html %}
+<p><a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener">Über WhatsApp teilen</a></p>
+<p><a href="#" id="copy-url">Link kopieren</a></p>
 
 {% if page.info %}
 <h2></h2>
@@ -55,3 +56,5 @@ layout: minimal
         <li>{{ task }}</li>
     {% endfor %}
 </ol>
+
+<script src="/assets/js/copyUrl.js"></script>
