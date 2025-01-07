@@ -21,7 +21,7 @@ layout: minimal
 {% if page.source contains "https://" %}
 <p class="text-small mb-1 mt-1"><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
 {% else %}
-<p class="text-small mb-1 mt-1">Kein Originalrezept ¯\_(ツ)_/¯</p>
+<p class="text-small mb-1 mt-1">Kein Link zum Originalrezept ¯\_(ツ)_/¯</p>
 {% endif %}
 
 <p class="text-small mb-1 mt-1"><a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener">Über WhatsApp teilen</a></p>
