@@ -39,7 +39,7 @@ layout: minimal
 <ul>
     {% for ingredient in page.ingredients %}
         <li>
-            {% assign spaced_units = "Dose,Dosen,Knolle,Knollen,Prise,Prisen,Zehe,Zehen,Zweig,Zweige" | split: "," %}
+            {% assign spaced_units = "Blatt,Blätter,Dose,Dosen,Knolle,Knollen,Packung,Packungen,Prise,Prisen,Zehe,Zehen,Zweig,Zweige" | split: "," %}
             {% if spaced_units contains ingredient.unit %}
                 <!-- Notice the " " between ingredient.amount and ingredient.unit -->
                 {{ ingredient.amount }} {{ ingredient.unit }} {{ ingredient.name }}
