@@ -11,8 +11,8 @@ info: >-
     Super einfach und auch sehr lecker!
 
 labels:
-    - weihnachten
-    - geschenke
+    - favorit
+    - schnell und einfach
 
 ingredients:
     - { name: Sahne, amount: 500, unit: g }
