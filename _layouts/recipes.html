@@ -19,15 +19,16 @@ layout: minimal
 {% endif %}
 
 {% if page.source contains "https://" %}
-<p><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
+<p class="text-small mb-1 mt-1"><a href="{{ page.source }}" target="_blank">Link zum Originalrezept</a></p>
+{% else %}
+<p class="text-small mb-1 mt-1">Kein Originalrezept ¯\_(ツ)_/¯</p>
 {% endif %}
 
-<p><a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener">Über WhatsApp teilen</a></p>
-<p><a href="#" id="copy-url">Link kopieren</a></p>
+<p class="text-small mb-1 mt-1"><a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener">Über WhatsApp teilen</a></p>
+<p class="text-small mb-1 mt-1"><a href="#" id="copy-url">Link kopieren</a></p>        
 
 {% if page.info %}
-<h2></h2>
-<p id="info-callout" class="info" style="display: block">{{ page.info }}</p>
+<p id="info-callout" class="info">{{ page.info }}</p>
 {% endif %}
 
 {% if page.servings %}
@@ -39,8 +40,8 @@ layout: minimal
 <ul>
     {% for ingredient in page.ingredients %}
         <li>
-            {% assign quoted_units = "Dose,Dosen,Knolle,Knollen,Prise,Prisen,Zehe,Zehen,Zweig,Zweige" | split: "," %}
-            {% if quoted_units contains ingredient.unit %}
+            {% assign spaced_units = "Dose,Dosen,Knolle,Knollen,Prise,Prisen,Zehe,Zehen,Zweig,Zweige" | split: "," %}
+            {% if spaced_units contains ingredient.unit %}
                 <!-- Notice the " " between ingredient.amount and ingredient.unit -->
                 {{ ingredient.amount }} {{ ingredient.unit }} {{ ingredient.name }}
             {% else %}
@@ -52,8 +53,8 @@ layout: minimal
 
 <h2>Zubereitung</h2>
 <ol>
-    {% for task in page.instructions %}
-        <li>{{ task }}</li>
+    {% for instruction in page.instructions %}
+        <li>{{ instruction }}</li>
     {% endfor %}
 </ol>
 
