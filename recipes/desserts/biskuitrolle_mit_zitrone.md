@@ -7,7 +7,7 @@ image: /assets/imgs/zitronenrolle.jpg
 servings: ~
 labels: []
 ingredients:
-    - { name: Ei, amount: 5, unit: ~ }
+    - { name: Eier, amount: 5, unit: ~ }
     - { name: Zucker, amount: 120, unit: g }
     - { name: Vanillezucker, amount: 1, unit: Packung }
     - { name: Speisestärke, amount: 100, unit: g }
@@ -21,8 +21,8 @@ instructions:
     - Backofen auf 180°C Umluft vorheizen.
     - Für den Biskuit die Eier trennen und das Eiweiß mit Salz steif schlagen.
     - Das Eigelb mit 100g Zucker und dem Vanillezucker schaumig rühren.
-    - Mehl und Speisestärke vermischen und mitdem schaumigen Eigelb vermischen.
-    - Das Eiweiß unter die Masse heben. Anschließend auf dem Backpapier verstreichen und 13 Minuten bei 180°C Grad backen.
+    - Mehl und Speisestärke vermischen und mit dem schaumigen Eigelb vermischen.
+    - Das Eiweiß unter die Masse heben. Anschließend gleichmäßig auf dem Backpapier verstreichen und 13 Minuten bei 180°C Grad backen.
     - Ein Küchenhandtuch mit dem restlichen Zucker bestreuen und den Teig darauf stürzen, das Backpapier dann vorsichtig entfernen und den Biskuit einrollen.
     - Für die Füllung die Schale der Zitronen abreiben und den Saft auspressen. 
     - Die Sahne steif schlagen und mit dem Puderzucker, der Zitronenschale und 5-6 EL des Zitronensafts verrühren.
