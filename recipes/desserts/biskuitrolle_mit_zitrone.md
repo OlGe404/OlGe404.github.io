@@ -27,4 +27,5 @@ instructions:
     - Für die Füllung die Schale der Zitronen abreiben und den Saft auspressen. 
     - Die Sahne steif schlagen und mit dem Puderzucker, der Zitronenschale und 5-6 EL des Zitronensafts verrühren.
     - Den Teig ausrollen, die Füllung darauf verstreichen und den Teig wieder einrollen. Mindestens 1 Stunde im Kühlschrank ziehen lassen.
+    - Vor dem Servieren mit Puderzucker bestäuben. Fertig!
 ---
