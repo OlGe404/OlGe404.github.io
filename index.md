@@ -12,7 +12,7 @@ Die enthaltenen Rezepte sind ausprobiert und für gut befunden worden. Es ist ei
 
 Da ich mir (fast) kein Rezept selbst ausgedacht habe, ist (fast) immer ein Link zum Originalrezept hinterlegt. Das kann ein Video, ein Artikel oder der Link zum Kochbuch auf Amazon sein - woher das Rezept eben stammt.
 
-Die Rezepte sind grob kategorisiert, können aber alle über die Suche gefunden werden. Die Suche berücksichtigt die Überschriften, Kapitelinhalte und Schlagworte, die auf den Seiten vorhanden sind, z.B.:
+Die Rezepte sind grob kategorisiert, können aber auch alle über die Suche gefunden werden. Die Suche berücksichtigt die Überschriften, Kapitelinhalte und Schlagworte, die auf den Seiten vorhanden sind, z.B.:
 
 Vegetarisch
 {: .label .label-green }
@@ -27,5 +27,12 @@ Asiatisch
 {: .label .label-yellow }
 
 Die Farben der Schlagworte spielen dabei keine Rolle - sie werden jedem Rezept zufällig zugewiesen.
+
+Hier noch ein paar Empfehlungen, wo sonst noch gute Rezepte zu finden sind:
+
+* https://brotmitei.de/
+* https://www.joshuaweissman.com/
+* https://www.justonecookbook.com/
+* https://schoolofwok.co.uk/
 
 Viel Spaß beim nachkochen! ( ͡ᵔ ͜ʖ ͡ᵔ )
