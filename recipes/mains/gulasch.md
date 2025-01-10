@@ -3,11 +3,10 @@ layout: recipes
 title: Gulasch
 parent: Hauptspeisen
 source: https://www.youtube.com/watch?v=-gaiirVvB1U
-image: /assets/imgs/rindergulasch.jpg
+image: /assets/imgs/gulasch.jpg
 servings: 4
 info: >
-    Anstatt Schweinefleisch kann auch Rindfleisch verwendet werden. Wer keine Topf hat der groß genug ist,
-    um 1kg Fleisch auf einmal anzubraten, kann das in kleineren Portionen hintereinander machen.
+    Anstatt Schweinefleisch kann auch Rindfleisch verwendet werden.
     Und: Wer das Gulasch mit Beilagen wie Gnocchi, Karoffeln, Nudeln o.ä. isst, hat doppelt soviele Portionen. :)
 
 labels:
@@ -25,7 +24,7 @@ ingredients:
     - { name: Kümmel, amount: 1, unit: TL }
     - { name: Salz, amount: ~, unit: ~ }
     - { name: Wasser, amount: ~ , unit: ~ }
-    - { name: Apfelmus, amount: 4, unit: EL }
+    - { name: Apfelmus, amount: ~, unit: ~ }
 
 instructions:
     - In einem großen Topf das Rapsöl auf hoher Stufe erhitzen (Stufe 7/9).
@@ -37,5 +36,5 @@ instructions:
     - Wenn sich neue Röststoffe am Topfboden gebildet haben, löschen wir alles mit Wasser ab, bis das Fleisch und die Zwiebeln noch *geradeso* aus dem Wasser gucken.
     - Den Knoblauch in Scheiben schneiden und mit allem übrigen in den Topf geben.
     - Jetzt alles für ca. 4h abgedeckt köcheln(!) lassen, bis das Fleisch zart geworden ist.
-    - Mit einer Beilage der Wahl (oder einfach so) und einem EL Apfelmus an der Seite servieren. Fertig!
+    - Mit einer Beilage der Wahl (oder einfach so) und Apfelmus an der Seite servieren. Fertig!
 ---
