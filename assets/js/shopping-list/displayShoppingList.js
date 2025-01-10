@@ -13,7 +13,7 @@ export function displayShoppingList(shoppingList) {
             const li = document.createElement("li");
 
             if(ingredient.amount) {
-                if(["Blatt", "Blätter", "Dose", "Knolle", "Knollen", "Packung", "Packungen", "Prise", "Prisen", "Zehe", "Zehen", "Zweig", "Zweige"].includes(ingredient.unit)) {
+                if(["Blatt", "Blätter", "Dose", "Knolle", "Knollen", "Packung", "Packungen", "Prise", "Prisen", "Würfel", "Zehe", "Zehen", "Zweig", "Zweige"].includes(ingredient.unit)) {
                     // Note the " " between ingredient.amount and ingredient.unit statements
                     li.textContent = `${ingredient.amount ? ingredient.amount : ""} ${ingredient.unit ? ingredient.unit : ""} ${ingredient.name}`;
     
