@@ -6,7 +6,7 @@ source: https://www.youtube.com/watch?v=EEdBU64dYzw
 image: /assets/imgs/chilli_con_carne.jpg
 servings: 4
 info: >-
-    Wer keine Kuvertüre hat/benutzen möchte, kann auch etwas Backkakao nehmen.
+    Wer keine Kuvertüre hat, kann auch etwas Backkakao nehmen.
     Als Beilage empfiehlt sich (Knoblauch-)Baguette, Reis oder Tortilla Chips.
 
 labels:
