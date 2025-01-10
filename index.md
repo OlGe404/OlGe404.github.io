@@ -30,9 +30,9 @@ Die Farben der Schlagworte spielen dabei keine Rolle - sie werden jedem Rezept z
 
 Hier noch ein paar Empfehlungen, wo sonst noch gute Rezepte zu finden sind:
 
-* https://brotmitei.de/
-* https://www.joshuaweissman.com/
-* https://www.justonecookbook.com/
-* https://schoolofwok.co.uk/
+* [Brot mit Ei](https://brotmitei.de/)
+* [Joshua Weissman](https://www.joshuaweissman.com/)
+* [Just one Cookbook](https://www.justonecookbook.com/)
+* [School of Wok](https://schoolofwok.co.uk/)
 
 Viel Spaß beim nachkochen! ( ͡ᵔ ͜ʖ ͡ᵔ )
