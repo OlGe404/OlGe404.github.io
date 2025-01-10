@@ -1,7 +1,7 @@
 export function getRandomRecipes(recipes, days) {
     const randomRecipes = [];
     const recipeCount = recipes.length;
-    const recipesNeeded = Math.min(days, recipeCount);
+    const recipesNeeded = Math.min(days, recipeCount) * 2;
 
     while (randomRecipes.length < recipesNeeded) {
         const randomIndex = Math.floor(Math.random() * recipeCount);
