@@ -33,8 +33,8 @@ instructions:
     - Wenn die Zwiebeln glasig sind, das Tomatenmark und einen Schluck Wasser dazugeben.
     - Jetzt wird alles vermischt und weiter im Topf gekocht, bis sich der Ansatz vom anbraten des Fleisches vollständig vom Topfboden gelöst hat.
     - Nun geben wir das edelsüße und rosenscharfe Paprikapuler mit dazu, um es anzuschwitzen.
-    - Wenn sich neue Röststoffe am Topfboden gebildet haben, löschen wir alles mit Wasser ab, bis das Fleisch und die Zwiebeln noch *geradeso* aus dem Wasser gucken.
-    - Den Knoblauch in Scheiben schneiden und mit allem übrigen in den Topf geben.
-    - Jetzt alles für ca. 4h abgedeckt köcheln(!) lassen, bis das Fleisch zart geworden ist.
+    - Nach 1 Min löschen wir alles mit Wasser ab, bis das Fleisch und die Zwiebeln *geradeso* noch aus dem Wasser gucken.
+    - Den Knoblauch in Scheiben schneiden und mit allen übrigen Zutatetn (außer dem Apfelmus) in den Topf geben.
+    - Für ca. 4h abgedeckt köcheln(!) lassen, bis das Fleisch zart geworden ist.
     - Mit einer Beilage der Wahl (oder einfach so) und Apfelmus an der Seite servieren. Fertig!
 ---
