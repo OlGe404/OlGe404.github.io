@@ -7,7 +7,7 @@ image: /assets/imgs/gulasch.jpg
 servings: 4
 info: >
     Anstatt Schweinefleisch kann auch Rindfleisch verwendet werden.
-    Und: Wer das Gulasch mit Beilagen wie Gnocchi, Karoffeln, Nudeln o.ä. isst, hat doppelt soviele Portionen. :)
+    Und: Wer das Gulasch mit Beilagen wie Gnocchi, Karoffeln, Nudeln o.ä. isst, hat doppelt soviele Portionen. (~˘▾˘)~
 
 labels:
     - favorit
