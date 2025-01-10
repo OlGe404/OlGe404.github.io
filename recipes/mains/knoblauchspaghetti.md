@@ -23,5 +23,5 @@ instructions:
     - Das Olivenöl und Rapsöl in eine große Pfanne auf hoher Hitze geben (Stufe 7/9 am Herd).
     - Die Speckwürfel und Karotten in das Öl geben. Braten, bis noch ca. 3 Minuten übrig sind, bis die Spaghetti fertig sind.
     - Jetzt den Knoblauch durch eine Presse in die Pfanne geben, umrühren und weiter braten, bis die Spaghetti fertig sind.
-    - Die Bratpfanne von der Hitze nehmen, die Nudeln abgießen und die Nudeln auf die Teller geben. Anschließend das gebratene darauf verteilen. Fertig!
+    - Die Bratpfanne von der Hitze nehmen, die Nudeln abgießen und die Nudeln auf die Teller geben. Anschließend das gebratene darauf verteilen und mit schwarzem Pfeffer nach Geschmack würzen. Fertig!
 ---
