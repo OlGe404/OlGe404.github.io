@@ -5,6 +5,8 @@ parent: Hauptspeisen
 source: ~
 image: /assets/imgs/knoblauchspaghetti.jpg
 servings: 2
+info: >-
+  Anstatt einer zweiten Karotte kann auch eine halbe Zucchini verwendet werden. 
 labels:
     - schnell und einfach
 
