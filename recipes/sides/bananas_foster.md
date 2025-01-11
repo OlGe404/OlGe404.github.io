@@ -1,7 +1,7 @@
 ---
 layout: recipes
 title: Bananas Foster
-parent: Soßen & Öle
+parent: Beilagen
 source: https://www.joshuaweissman.com/post/perfect-homemade-waffles
 image: /assets/imgs/bananas_foster.jpg
 servings: ~
