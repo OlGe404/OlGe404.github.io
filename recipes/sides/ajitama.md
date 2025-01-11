@@ -14,7 +14,7 @@ info: >-
 
 ingredients:
     - { name: Eier, amount: 6, unit: ~ }
-    - { name: Chashu Soße, amount: 250, unit: ml }
+    - { name: Chashu Soße, amount: 240, unit: ml }
     - { name: ===== Wenn man keine Chashu Soße hat ===== }
     - { name: Sojasauce, amount: 120, unit: ml }
     - { name: Mirin, amount: 60, unit: ml }
