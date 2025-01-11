@@ -21,5 +21,5 @@ instructions:
     - Die Knollen mit Schale in einen Standmixer geben.
     - Sobald das Öl heiß genug ist, geben wir es auch in den Standmixer.
     - Jetzt auf höchster Stufe für 5 Min mixen.
-    - Abschließend das Öl durch ein Tuch auf einem Sieb in den gewünschten Behälter zur Lagerung filtern. Fertig!
+    - Abschließend das Öl durch ein Tuch auf einem Sieb in den gewünschten Behälter filtern. Fertig!
 ---
