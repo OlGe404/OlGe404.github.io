@@ -23,8 +23,8 @@ ingredients:
 instructions:
     - Mit einem Eierpickser die Eier piecksen :)
     - Ca. 700ml Wasser in einem Topf zum kochen bringen und die Eier für 6 Min kochen.
-    - Die Eier nach dem herausnehmen aus dem Topf in ein Eisbad geben (wichtig!).
+    - Die Eier aus dem Topf herausnehmen und direkt in ein Eisbad geben (wichtig!).
     - Wenn die Eier ganz abgekühlt sind, werden sie geschält und in einen Zippbeutel mit der Chashu Soße gegeben. Die Luft aus dem Beutel pressen und darauf achten, dass die Eier von allen Seiten bedeckt sind.
-    - Wer keine Chashu Soße hat, mischt die Sojasauce, Sake und Mirin im Zippbeutel und gibt dann die geschälten Eier dazu.
+    - Wer keine Chashu Soße hat, mischt die Sojasauce, den Sake und Mirin im Zippbeutel und gibt dann die geschälten Eier dazu.
     - Im Kühlschrank für 24-48h ziehen lassen. Fertig!
 ---
