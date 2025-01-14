@@ -15,6 +15,7 @@ labels:
 ingredients:
     - { name: Zwiebeln, amount: 500, unit: g }
     - { name: Schweinefleisch aus der Keule, amount: 1, unit: kg }
+    - { name: Butter, amount: 30, unit: g }
     - { name: Knoblauch, amount: 1, unit: Zehe }
     - { name: Tomatenmark, amount: 2, unit: EL }
     - { name: Rapsöl, amount: 5, unit: EL }
@@ -34,7 +35,7 @@ instructions:
     - Jetzt wird alles vermischt und weiter im Topf gekocht, bis sich der Ansatz vom anbraten des Fleisches vollständig vom Topfboden gelöst hat.
     - Nun geben wir das edelsüße und rosenscharfe Paprikapuler mit dazu, um es anzuschwitzen.
     - Nach 1 Min löschen wir alles mit Wasser ab, bis das Fleisch und die Zwiebeln *geradeso* noch aus dem Wasser gucken.
-    - Den Knoblauch in Scheiben schneiden und mit allen übrigen Zutatetn (außer dem Apfelmus) in den Topf geben.
+    - Den Knoblauch in Scheiben schneiden und mit allen übrigen Zutaten (außer dem Apfelmus) in den Topf geben.
     - Für ca. 4h abgedeckt köcheln(!) lassen, bis das Fleisch zart geworden ist.
     - Mit einer Beilage der Wahl (oder einfach so) und Apfelmus an der Seite servieren. Fertig!
 ---
