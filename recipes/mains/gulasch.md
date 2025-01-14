@@ -20,7 +20,7 @@ ingredients:
     - { name: Rapsöl, amount: 5, unit: EL }
     - { name: Etwas Zitronenzeste, amount: ~, unit: ~ }
     - { name: Paprikapulver (edelsüß), amount: 2, unit: EL }
-    - { name: Paprikapulber (rosenscharf), amount: 2, unit: EL }
+    - { name: Paprikapulver (rosenscharf), amount: 2, unit: EL }
     - { name: Kümmel, amount: 1, unit: TL }
     - { name: Salz, amount: ~, unit: ~ }
     - { name: Wasser, amount: ~ , unit: ~ }
