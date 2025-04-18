@@ -21,7 +21,7 @@ ingredients:
     - { name: Mais, amount: 1, unit: Dose }
     - { name: Kidneybohnen, amount: 1, unit: Dose }
     - { name: Passierte Tomaten, amount: 1000, unit: ml }
-    - { name: Dunkle Kuvertüre, amount: 100, unit: g }
+    - { name: Dunkle Kuvertüre, amount: 50, unit: g }
     - { name: Baguette, amount: 1, unit: ~ }
     - { name: Salz, amount: ~, unit: ~ }
     - { name: Schwarzer Pfeffer, amount: ~, unit: ~ }
