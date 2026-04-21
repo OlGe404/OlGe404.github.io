@@ -29,7 +29,6 @@ instructions:
     - Wenn sich auf der Hefemischung Schaum gebildet hat, wird sie in die Schüssel gegeben. Sollte das noch nicht passiert sein, weitere 5 Min warten und dann in die Schüssel geben (auch ohne Schaum).
     - Mit einem Knethaken die Zutaten zu einem Teig verkneten.
     - Die Schüssel mit einem sauberen Küchentuch abdecken und bei 50°C für 15 Min in den Ofen stellen.
-    - Nach 15 Min den Teig mit der Hand durchkneten und nochmal abgedeckt für 15 Min bei 50°C im Ofen gehen lassen.
     - Bei einem tiefen Backblech den Boden und die inneren Ränder einfetten.
     - Den Teig aus der Schüssel auf dem Backblech verteilen (bis in die Ecken). Anschließend nochmal 15 Min bei 50°C abgedeckt im Ofen gehen lassen. Danach den Ofen auf 210°C Ober-/Unterhitze vorheitzen (NICHT auf Umluft!).
     - Jetzt drücken wir den Teig mehrmals in gleichmäßigen Abständen ein um kleine Kulen zu formen, wo die Flocken der restlichen Butter hineingelegt werden.
