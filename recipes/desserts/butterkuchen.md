@@ -13,7 +13,7 @@ ingredients:
     - { name: Zucker, amount: 200, unit: g }
     - { name: Ei, amount: 1, unit: ~ }
     - { name: Frische Hefe, amount: 1, unit: Würfel }
-    - { name: Alternativ: Trockenhefe, amount: 1, unit: Päckchen (7g) }
+    - { name: "Alternativ: Trockenhefe", amount: 1, unit: Päckchen (7g) }
     - { name: Vanillezucker, amount: 2, unit: Packungen }
     - { name: Milch, amount: 200, unit: ml }
     - { name: Butter, amount: 200, unit: g }
