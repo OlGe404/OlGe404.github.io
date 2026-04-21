@@ -32,7 +32,7 @@ instructions:
     - Bei einem tiefen Backblech den Boden und die inneren Ränder einfetten.
     - Den Teig aus der Schüssel auf dem Backblech verteilen (bis in die Ecken). Anschließend nochmal 15 Min bei 50°C abgedeckt im Ofen gehen lassen. Danach den Ofen auf 210°C Ober-/Unterhitze vorheitzen (NICHT auf Umluft!).
     - Jetzt drücken wir den Teig mehrmals in gleichmäßigen Abständen ein um kleine Kulen zu formen, wo die Flocken der restlichen Butter hineingelegt werden.
-    - Nun wird die zweite Packung Vanillezucker mit Zwei Drittel des normalen Zuckers vermischt und gleichmäßig über dem Teig verteilt.
+    - Nun wird die zweite Packung Vanillezucker mit Zwei Drittel des normalen Zuckers vermischt und gleichmäßig über dem Teig verteilt (wenn man nicht das Gefühl hat, dass es deutlich zu viel Zucker ist, macht man es falsch :)).
     - Dann verteilen wir die gehobelten Mandeln auf dem Teig und anschließend geben wir den restlichen Zucker darüber (damit die Mandeln auch karamellisieren).
     - Jetzt das Blech bei 210°C Ober-/Unterhitze für 15 Min in den Ofen geben. Nach ca. 10 Min checken, wie braun der Kuchen geworden ist und ggf. früher rausnehmen. Fertig!
 ---
